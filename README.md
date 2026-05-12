@@ -31,13 +31,7 @@
 
 ---
 
-## 📊 Estadísticas GitHub
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&bg_color=0D1117&title_color=1E3A8A&text_color=FFFFFF&icon_color=2563EB&border_color=1E3A8A" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&bg_color=0D1117&title_color=1E3A8A&text_color=FFFFFF&border_color=1E3A8A" />
 
 </div>
 

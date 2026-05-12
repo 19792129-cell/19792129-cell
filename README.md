@@ -9,7 +9,32 @@
 </div>
 
 ---
-
 # 🌸 About Me
 
-``
+<img align="right" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+### 👩‍💻 Yansi Hernández
+
+🎓 Second-year Software Development student from El Salvador passionate about technology, programming, and modern web design.
+
+💡 I enjoy building professional applications, learning new technologies, and improving my skills every day.
+
+🚀 My main interests include:
+- Web Development
+- Java Applications
+- Database Systems
+- UI/UX Design
+- Modern Interfaces
+
+⚡ Currently focused on becoming a Full Stack Developer and creating professional software projects.
+
+✨ I consider myself:
+- Creative
+- Responsible
+- Passionate about learning
+- Dedicated to technology
+
+<br><br>
+
+
+

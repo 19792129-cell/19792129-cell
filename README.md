@@ -18,4 +18,59 @@
 
 </div>
 
+<h1 align="center">💜 ABOUT ME 💜</h1>
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%">
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" />
+
+</td>
+
+<td width="50%">
+
+```yaml
+╭────────────── 💜 YANSI PROFILE 💜 ──────────────╮
+
+👩 Name: Yansi Hernández
+🌍 Country: El Salvador 🇸🇻
+🎓 Career: Software Development
+📚 Level: Second Year Student
+💻 Specialty: Full Stack Development
+🎨 Passion: UI/UX Design & Creative Coding
+🛢️ Favorite Area: Databases & Programming
+
+🚀 Currently Learning:
+   ✦ Java
+   ✦ PostgreSQL
+   ✦ MySQL
+   ✦ HTML5 & CSS3
+   ✦ JavaScript
+   ✦ Git & GitHub
+
+🌟 Skills:
+   ✦ Creative Problem Solving
+   ✦ Teamwork
+   ✦ Fast Learning
+   ✦ Interface Design
+   ✦ Logical Thinking
+
+🎯 Goals:
+   ✦ Become a Professional Developer
+   ✦ Build Amazing Applications
+   ✦ Create Modern Systems
+   ✦ Learn New Technologies Daily
+
+💜 Personality:
+   Creative • Dedicated • Passionate • Innovative
+
+⚡ Fun Fact:
+   I love turning ideas into code ✨
+
+╰───────────────────────────────────────────────╯
+
 

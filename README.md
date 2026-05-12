@@ -12,12 +12,12 @@
 
 </div>
 
-## 👨‍💻 Sobre mí
+ 👨‍💻 Sobre mí
 
-💙 Apasionado/a por la programación  
+💙 Apasionada por la programación  
 💙 Aprendiendo desarrollo web y bases de datos  
 💙 Creando proyectos para mejorar mis habilidades  
-💙 Futuro desarrollador/a profesional  
+💙 Futuro desarrolladora profesional  
 
 ---
 
@@ -25,13 +25,45 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,postgresql,git,vscode,github" />
+<a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank">
+<img src="https://skillicons.dev/icons?i=html" />
+</a>
+
+<a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank">
+<img src="https://skillicons.dev/icons?i=css" />
+</a>
+
+<a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank">
+<img src="https://skillicons.dev/icons?i=js" />
+</a>
+
+<a href="https://www.postgresql.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=postgresql" />
+</a>
+
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=git" />
+</a>
+
+<a href="https://code.visualstudio.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=vscode" />
+</a>
+
+<a href="https://github.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
 
 </div>
 
 ---
 
+## 📊 Estadísticas GitHub
 
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&bg_color=0D1117&title_color=1E3A8A&text_color=FFFFFF&icon_color=2563EB&border_color=1E3A8A" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&bg_color=0D1117&title_color=1E3A8A&text_color=FFFFFF&border_color=1E3A8A" />
 
 </div>
 
@@ -60,8 +92,12 @@
 
 <div align="center">
 
-<a href="https://github.com/TUUSUARIO">
+<a href="https://github.com/TUUSUARIO" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-0A192F?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-1E3A8A?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
@@ -72,6 +108,5 @@
 
 
 
-</div>
 
 

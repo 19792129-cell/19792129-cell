@@ -18,59 +18,75 @@
 
 </div>
 
-<h1 align="center">💜 ABOUT ME 💜</h1>
+
+ <h1 align="center">💜 ABOUT ME 💜</h1>
 
 <div align="center">
 
-<table>
+<table width="90%" style="border-collapse: collapse; border-radius:20px; overflow:hidden;">
+
 <tr>
 
-<td width="50%">
+<td width="35%" align="center" bgcolor="#1E1E2E">
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" />
+<br>
+
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="90%" style="border-radius:20px;"/>
+
+<br><br>
+
+<h2 style="color:#C084FC;">✨ Yansi Hernández ✨</h2>
+
+<p style="color:white;">
+Software Development Student 💻
+</p>
+
+<br>
 
 </td>
 
-<td width="50%">
+<td width="65%" bgcolor="#2A2438">
 
-```yaml
-╭────────────── 💜 YANSI PROFILE 💜 ──────────────╮
+<br>
 
-👩 Name: Yansi Hernández
-🌍 Country: El Salvador 🇸🇻
-🎓 Career: Software Development
-📚 Level: Second Year Student
-💻 Specialty: Full Stack Development
-🎨 Passion: UI/UX Design & Creative Coding
-🛢️ Favorite Area: Databases & Programming
+<table width="90%" align="center">
 
-🚀 Currently Learning:
-   ✦ Java
-   ✦ PostgreSQL
-   ✦ MySQL
-   ✦ HTML5 & CSS3
-   ✦ JavaScript
-   ✦ Git & GitHub
+<tr>
+<td>
 
-🌟 Skills:
-   ✦ Creative Problem Solving
-   ✦ Teamwork
-   ✦ Fast Learning
-   ✦ Interface Design
-   ✦ Logical Thinking
+<h2 style="color:#C084FC;">🌸 ABOUT ME</h2>
 
-🎯 Goals:
-   ✦ Become a Professional Developer
-   ✦ Build Amazing Applications
-   ✦ Create Modern Systems
-   ✦ Learn New Technologies Daily
+<p style="color:white; font-size:16px;">
 
-💜 Personality:
-   Creative • Dedicated • Passionate • Innovative
+💜 Passionate about technology and software development.<br><br>
 
-⚡ Fun Fact:
-   I love turning ideas into code ✨
+💻 Focused on becoming a professional Full Stack Developer.<br><br>
 
-╰───────────────────────────────────────────────╯
+🎨 I enjoy designing creative and modern interfaces.<br><br>
 
+🛢️ Interested in databases, programming, and innovative systems.<br><br>
 
+🚀 Currently learning Java, PostgreSQL, MySQL, HTML, CSS, and JavaScript.<br><br>
+
+🌟 I love creating projects that combine creativity with functionality.<br><br>
+
+📚 Second-year Software Development student from El Salvador 🇸🇻.<br><br>
+
+⚡ Always learning new technologies and improving my skills every day.
+
+</p>
+
+</td>
+</tr>
+
+</table>
+
+<br>
+
+</td>
+
+</tr>
+
+</table>
+
+</div>

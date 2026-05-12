@@ -12,7 +12,7 @@
 
 </div>
 
- 👨‍💻 Sobre mí
+Sobre mí
 
 💙 Apasionada por la programación  
 💙 Aprendiendo desarrollo web y bases de datos  
@@ -105,6 +105,10 @@
 ---
 
 <div align="center">
+
+## 💙 Gracias por visitar mi perfil 💙
+
+</div>
 
 
 

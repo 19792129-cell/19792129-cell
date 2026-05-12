@@ -1,26 +1,25 @@
 <div align="center">
 
-# 👋 Hola, soy Tu Nombre
+# 💙 Hola, soy Tu Nombre
 
-### 💻 Desarrollador/a en formación
-### 🚀 Apasionado/a por la tecnología y las bases de datos
+### 💻 Developer | 🚀 Aprendiendo cada día
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00BFFF&center=true&vCenter=true&width=500&lines=Bienvenido+a+mi+perfil+de+GitHub;Aprendiendo+Desarrollo+Web;PostgreSQL+%7C+JavaScript+%7C+Git" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=1E3A8A&center=true&vCenter=true&width=600&lines=Bienvenido+a+mi+perfil+de+GitHub;Desarrollo+Web+y+Bases+de+Datos;HTML+%7C+CSS+%7C+JavaScript+%7C+PostgreSQL" />
 
 </div>
 
 ---
 
-# 🧠 Sobre mí
+## 👨‍💻 Sobre mí
 
-✨ Me gusta aprender nuevas tecnologías  
-📚 Actualmente estudiando programación y bases de datos  
-🛠️ Creando proyectos personales  
-🎯 Meta: Convertirme en desarrollador/a profesional  
+💙 Apasionado/a por la programación  
+💙 Aprendiendo desarrollo web y bases de datos  
+💙 Creando proyectos para mejorar mis habilidades  
+💙 Futuro desarrollador/a profesional  
 
 ---
 
-# ⚙️ Tecnologías
+## ⚡ Tecnologías
 
 <div align="center">
 
@@ -30,42 +29,44 @@
 
 ---
 
-# 📈 Estadísticas
+## 📊 Estadísticas GitHub
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=radical"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&bg_color=0D1117&title_color=1E3A8A&text_color=FFFFFF&icon_color=2563EB&border_color=1E3A8A" />
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=radical"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&bg_color=0D1117&title_color=1E3A8A&text_color=FFFFFF&border_color=1E3A8A" />
 
 </div>
 
 ---
 
-# 🔥 Racha de contribuciones
+## 🔥 Actividad
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=TUUSUARIO&theme=radical&border_radius=10" />
+<img src="https://streak-stats.demolab.com?user=TUUSUARIO&theme=dark&ring=1E3A8A&fire=2563EB&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&border=1E3A8A" />
 
 </div>
 
 ---
 
-# 🚀 Proyectos
+## 🚀 Proyectos
 
-🔹 Sistema de ventas  
-🔹 CRUD con PostgreSQL  
+🔹 Sistema de ventas con PostgreSQL  
+🔹 CRUD de clientes y productos  
 🔹 Página web responsive  
-🔹 Inventario de productos  
+🔹 Sistema de inventario  
 
 ---
 
-# 🌎 Redes
+## 🌐 Contacto
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/TUUSUARIO)
+<a href="https://github.com/TUUSUARIO">
+<img src="https://img.shields.io/badge/GitHub-0A192F?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
@@ -73,7 +74,7 @@
 
 <div align="center">
 
-### ⭐ Gracias por visitar mi perfil ⭐
+## 💙 Gracias por visitar mi perfil 💙
 
 </div>
 

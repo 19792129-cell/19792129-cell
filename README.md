@@ -76,7 +76,7 @@
 
 <div align="center">
 
-## 💙 Gracias por visitar mi perfil 💙
+
 
 </div>
 

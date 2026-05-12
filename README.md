@@ -1,33 +1,28 @@
-# 👩‍💻 Yansi Hernández
+<h1 align="center">
+✨ Yansi Hernández ✨
+</h1>
 
-<div align="center">
-
-
-
-# 🌸 Bienvenidos a mi perfil 🌸
-
-💻 Estudiante de Desarrollo de Software  
-🎓 Segundo Año  
-📍 El Salvador  
-
-</div>
+<h3 align="center">
+💻 Software Development Student | Web Developer | Database Enthusiast
+</h3>
 
 ---
 
-# ✨ Sobre Mí
+## 🌸 About Me
 
-Hola 👋  
-Soy una estudiante apasionada por la programación, diseño web y bases de datos.
+🎓 Second-year Software Development student passionate about technology and innovation.
 
-Me gusta crear:
-- 🌐 Páginas Web
-- 💻 Aplicaciones
-- 🗄 Sistemas con Base de Datos
-- 🎨 Interfaces modernas y elegantes
+💡 I enjoy building:
+- Modern web applications
+- Database systems
+- Professional user interfaces
+- Java desktop applications
+
+🚀 Always learning new technologies and improving my development skills.
 
 ---
 
-# 🚀 Tecnologías
+## 🛠 Tech Stack
 
 <div align="center">
 
@@ -37,66 +32,11 @@ Me gusta crear:
 
 ---
 
-# 📚 Actualmente Aprendiendo
+## 📚 Currently Learning
 
-- ⚡ Java avanzado
-- 🌐 Desarrollo Web
-- 🗄 PostgreSQL
-- 📱 Interfaces modernas
-- 🚀 GitHub
-
----
-
-# 💜 Proyectos
-
-## 🛒 Sistema de Ventas
-Sistema en Java conectado con PostgreSQL para registrar clientes y productos.
-
----
-
-## 📚 Sistema Escolar
-Aplicación para gestionar estudiantes, materias y notas.
-
----
-
-## 🌐 Portafolio Web
-Página personal moderna estilo GitHub usando HTML y CSS.
-
----
-
-# 📊 Estadísticas
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=19792129-cell&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=19792129-cell&theme=tokyonight"/>
-
-</div>
-
----
-
-# 🌸 Habilidades
-
-✔ Desarrollo Web  
-✔ Bases de Datos  
-✔ Java Desktop  
-✔ Diseño UI  
-✔ GitHub  
-
----
-
-# 📫 Contacto
-
-📧 yansi.dev@gmail.com  
-
-🌐 GitHub:  
-https://github.com/19792129-cell
-
----
-
-<div align="center">
-
-✨ “Cada línea de código me acerca más a mi futuro.” ✨
-
-</div>
+```diff
++ Advanced Java
++ PostgreSQL
++ Responsive Web Design
++ Git & GitHub
++ Modern UI Design

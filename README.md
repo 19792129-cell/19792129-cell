@@ -1,42 +1,35 @@
-<h1 align="center">
-✨ Yansi Hernández ✨
-</h1>
-
-<h3 align="center">
-💻 Software Development Student | Web Developer | Database Enthusiast
-</h3>
-
----
-
-## 🌸 About Me
-
-🎓 Second-year Software Development student passionate about technology and innovation.
-
-💡 I enjoy building:
-- Modern web applications
-- Database systems
-- Professional user interfaces
-- Java desktop applications
-
-🚀 Always learning new technologies and improving my development skills.
-
----
-
-## 🛠 Tech Stack
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,java,mysql,postgres,git,github,vscode" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=8B5CF6&text=Yansi%20Hernández&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+
+# 💜 Software Development Student
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=C084FC&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile!;Future+Full+Stack+Developer;Java+and+Database+Enthusiast;Creative+UI+Designer;Always+Learning+New+Technologies" />
 
 </div>
 
 ---
 
-## 📚 Currently Learning
+# 🌸 About Me
 
-```diff
-+ Advanced Java
-+ PostgreSQL
-+ Responsive Web Design
-+ Git & GitHub
-+ Modern UI Design
+```yaml
+Name: Yansi Hernández
+Country: El Salvador
+Education: Second Year Software Development Student
+Passion:
+  - Web Development
+  - Database Systems
+  - Modern UI Design
+  - Java Applications
+
+Goals:
+  - Become Full Stack Developer
+  - Build Professional Applications
+  - Improve Frontend Skills
+  - Learn Advanced Technologies
+
+Personality:
+  - Creative
+  - Responsible
+  - Passionate about Technology
+  - Always Learning

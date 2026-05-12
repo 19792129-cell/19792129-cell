@@ -27,35 +27,4 @@ Country: El Salvador 🇸🇻
 Role: Software Development Student
 Education: Second Year Student
 
-Focus:
-  - Full Stack Development
-  - UI/UX Design
-  - Database Management
 
-Currently Learning:
-  - Java
-  - PostgreSQL
-  - MySQL
-  - HTML5
-  - CSS3
-  - JavaScript
-  - Git & GitHub
-
-Skills:
-  - Creative Problem Solving
-  - Interface Design
-  - Logical Thinking
-  - Teamwork
-  - Fast Learning
-
-Goals:
-  - Become a Professional Developer
-  - Create Modern Applications
-  - Improve My Coding Skills
-  - Learn New Technologies
-
-Personality:
-  Creative • Dedicated • Passionate
-
-Fun Fact:
-  I love turning ideas into code ✨

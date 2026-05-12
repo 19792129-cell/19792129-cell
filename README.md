@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://i.imgur.com/2DhmtJ4.png" width="180"/>
+
 
 # 🌸 Bienvenidos a mi perfil 🌸
 

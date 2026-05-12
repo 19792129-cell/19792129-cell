@@ -18,35 +18,4 @@
 
 </div>
 
----
 
-<h1 align="center">💜 ABOUT ME 💜</h1>
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-```yaml
-Name: Yansi Hernández
-Country: El Salvador 🇸🇻
-Role: Software Development Student
-Education: Second Year Student
-Focus: Full Stack Development
-Passion: UI/UX Design & Databases
-Currently Learning:
-  - Java
-  - PostgreSQL
-  - MySQL
-  - HTML5
-  - CSS3
-  - JavaScript
-  - Git & GitHub
-
-Dream:
-  Become a professional developer
-  and create innovative applications
-
-Personality:
-  Creative • Dedicated • Passionate

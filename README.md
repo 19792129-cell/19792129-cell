@@ -19,71 +19,7 @@
 </div>
 
 
- <h1 align="center">💜 ABOUT ME 💜</h1>
 
-<div align="center">
-
-<table width="90%" style="border-collapse: collapse; border-radius:20px; overflow:hidden;">
-
-<tr>
-
-<td width="35%" align="center" bgcolor="#1E1E2E">
-
-<br>
-
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="90%" style="border-radius:20px;"/>
-
-<br><br>
-
-<h2 style="color:#C084FC;">✨ Yansi Hernández ✨</h2>
-
-<p style="color:white;">
-Software Development Student 💻
-</p>
-
-<br>
-
-</td>
-
-<td width="65%" bgcolor="#2A2438">
-
-<br>
-
-<table width="90%" align="center">
-
-<tr>
-<td>
-
-<h2 style="color:#C084FC;">🌸 ABOUT ME</h2>
-
-<p style="color:white; font-size:16px;">
-
-💜 Passionate about technology and software development.<br><br>
-
-💻 Focused on becoming a professional Full Stack Developer.<br><br>
-
-🎨 I enjoy designing creative and modern interfaces.<br><br>
-
-🛢️ Interested in databases, programming, and innovative systems.<br><br>
-
-🚀 Currently learning Java, PostgreSQL, MySQL, HTML, CSS, and JavaScript.<br><br>
-
-🌟 I love creating projects that combine creativity with functionality.<br><br>
-
-📚 Second-year Software Development student from El Salvador 🇸🇻.<br><br>
-
-⚡ Always learning new technologies and improving my skills every day.
-
-</p>
-
-</td>
-</tr>
-
-</table>
-
-<br>
-
-</td>
 
 </tr>
 

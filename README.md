@@ -12,24 +12,4 @@
 
 # 🌸 About Me
 
-```yaml
-Name: Yansi Hernández
-Country: El Salvador
-Education: Second Year Software Development Student
-Passion:
-  - Web Development
-  - Database Systems
-  - Modern UI Design
-  - Java Applications
-
-Goals:
-  - Become Full Stack Developer
-  - Build Professional Applications
-  - Improve Frontend Skills
-  - Learn Advanced Technologies
-
-Personality:
-  - Creative
-  - Responsible
-  - Passionate about Technology
-  - Always Learning
+``

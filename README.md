@@ -1,43 +1,49 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:020617,25:0F172A,50:1E3A8A,75:2563EB,100:60A5FA&text=Yansi%20Hernández&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Estudiante%20de%20Desarrollo%20de%20Software%20💙&descAlignY=58&descSize=22"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=350&color=0:14001F,25:2E1065,50:6D28D9,75:8B5CF6,100:C084FC&text=Yansi%20Hernández&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=💜%20Estudiante%20de%20Desarrollo%20de%20Software%20💜&descAlignY=58&descSize=23"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=1000&lines=💙+Bienvenido+a+mi+perfil+de+GitHub;💻+Futura+Desarrolladora+Full+Stack;🌐+Apasionada+por+el+Desarrollo+Web;🗄️+Amante+de+las+Bases+de+Datos;🚀+Creando+proyectos+modernos+y+profesionales" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=1100&lines=💜+Bienvenido+a+mi+perfil+de+GitHub;💻+Futura+Desarrolladora+Full+Stack;🌐+Apasionada+por+el+Desarrollo+Web;🗄️+Amante+de+las+Bases+de+Datos;🚀+Creando+proyectos+modernos+y+profesionales" />
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=19792129-cell&label=VISITAS+AL+PERFIL&color=1E3A8A&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=19792129-cell&label=VISITAS+AL+PERFIL&color=8B5CF6&style=for-the-badge"/>
 
-<img src="https://img.shields.io/github/followers/19792129-cell?style=for-the-badge&logo=github&color=2563EB&labelColor=0F172A&label=SEGUIDORES"/>
+<img src="https://img.shields.io/github/followers/19792129-cell?style=for-the-badge&logo=github&color=7C3AED&labelColor=1E1B4B&label=SEGUIDORES"/>
 
-<img src="https://img.shields.io/github/stars/19792129-cell?style=for-the-badge&logo=github&color=60A5FA&labelColor=0F172A&label=ESTRELLAS"/>
+<img src="https://img.shields.io/github/stars/19792129-cell?style=for-the-badge&logo=github&color=C084FC&labelColor=1E1B4B&label=ESTRELLAS"/>
+
+<br><br>
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=19792129-cell&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
 
 </div>
 
 ---
 
-# 💙 SOBRE MÍ
+# 💜 SOBRE MÍ
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
+<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ```yaml
-Nombre: Yansi Hernández
-Especialidad: Desarrollo de Software
-Ubicación: El Salvador
-Lenguajes: HTML, CSS, JavaScript, Java
-Base de Datos: PostgreSQL & MySQL
-Editor Favorito: VS Code
-Meta: Convertirme en Full Stack Developer
+👩 Nombre: Yansi Hernández
+💻 Carrera: Desarrollo de Software
+🌎 País: El Salvador
+🚀 Especialidad: Desarrollo Web
+🗄️ Base de Datos: PostgreSQL & MySQL
+🎨 Diseño: Interfaces Modernas
+🔥 Objetivo: Ser Full Stack Developer
 ```
 
-### 💻 Estudiante apasionada por la programación  
-### 🌐 Creando páginas web modernas y responsivas  
-### 🗄️ Aprendiendo bases de datos y backend  
-### 🚀 Mejorando mis habilidades cada día  
-### 🎨 Diseñando interfaces creativas y profesionales  
-### 💙 Amante de la tecnología y el desarrollo web  
+### 💜 Apasionada por la programación y la tecnología  
+### 💜 Creando proyectos modernos y profesionales  
+### 💜 Diseñando páginas web responsivas y dinámicas  
+### 💜 Aprendiendo backend y bases de datos  
+### 💜 Mejorando mis habilidades cada día  
+### 💜 Amante del diseño creativo y elegante  
+### 💜 Siempre aprendiendo nuevas tecnologías  
+### 💜 Construyendo mi futuro como desarrolladora  
 
-<br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 
 ---
 
@@ -45,19 +51,19 @@ Meta: Convertirme en Full Stack Developer
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,java,postgresql,mysql,git,github,vscode,figma&theme=dark" />
+<img width="100%" src="https://skillicons.dev/icons?i=html,css,js,java,postgresql,mysql,git,github,vscode,figma&theme=dark" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/HTML5-0F172A?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-<img src="https://img.shields.io/badge/CSS3-1E3A8A?style=for-the-badge&logo=css3&logoColor=1572B6"/>
-<img src="https://img.shields.io/badge/JavaScript-2563EB?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/Java-60A5FA?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=336791"/>
-<img src="https://img.shields.io/badge/MySQL-1E3A8A?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-2563EB?style=for-the-badge&logo=git&logoColor=F05032"/>
-<img src="https://img.shields.io/badge/GitHub-60A5FA?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VSCode-0F172A?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
+<img src="https://img.shields.io/badge/HTML5-1E1B4B?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/CSS3-2E1065?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+<img src="https://img.shields.io/badge/JavaScript-6D28D9?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/Java-7C3AED?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-8B5CF6?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-A855F7?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-9333EA?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-C084FC?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VSCode-581C87?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
 </div>
 
@@ -67,9 +73,17 @@ Meta: Convertirme en Full Stack Developer
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=19792129-cell&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=60A5FA&icon_color=60A5FA&text_color=FFFFFF"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=19792129-cell&show_icons=true&theme=tokyonight&hide_border=true&bg_color=14001F&title_color=C084FC&icon_color=C084FC&text_color=FFFFFF"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=19792129-cell&theme=tokyonight&hide_border=true&background=020617&ring=60A5FA&fire=60A5FA&currStreakLabel=FFFFFF"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=19792129-cell&theme=tokyonight&hide_border=true&background=14001F&ring=C084FC&fire=C084FC&currStreakLabel=FFFFFF"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=19792129-cell&theme=tokyo-night&hide_border=true&bg_color=14001F&color=C084FC&line=8B5CF6&point=FFFFFF"/>
 
 </div>
 
@@ -79,7 +93,7 @@ Meta: Convertirme en Full Stack Developer
 
 <div align="center">
 
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=19792129-cell&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=60A5FA&text_color=FFFFFF"/>
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=19792129-cell&layout=compact&theme=tokyonight&hide_border=true&bg_color=14001F&title_color=C084FC&text_color=FFFFFF"/>
 
 </div>
 
@@ -89,45 +103,53 @@ Meta: Convertirme en Full Stack Developer
 
 <div align="center">
 
-<table>
+<table width="100%">
 <tr>
+
 <td width="50%">
 
-### 🛒 Sistema de Ventas
-💙 Gestión de ventas y productos  
-💙 PostgreSQL y relaciones SQL  
-💙 CRUD completo y profesional  
+## 🛒 Sistema de Ventas
+💜 Gestión de productos y ventas  
+💜 PostgreSQL y relaciones SQL  
+💜 CRUD completo y profesional  
+💜 Interfaz moderna y dinámica  
 
 </td>
 
 <td width="50%">
 
-### 📦 Sistema de Inventario
-💙 Control de stock y productos  
-💙 Diseño moderno y funcional  
-💙 Gestión eficiente de datos  
+## 📦 Sistema de Inventario
+💜 Control de stock y productos  
+💜 Organización eficiente  
+💜 Diseño elegante y funcional  
+💜 Administración de datos  
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%">
 
-### 🌐 Página Web Moderna
-💙 Diseño responsive  
-💙 HTML, CSS y JavaScript  
-💙 Interfaz atractiva y dinámica  
+## 🌐 Página Web Moderna
+💜 Diseño responsive  
+💜 HTML, CSS y JavaScript  
+💜 Interfaz atractiva  
+💜 Experiencia moderna  
 
 </td>
 
 <td width="50%">
 
-### 👥 CRUD de Clientes
-💙 Gestión de clientes  
-💙 Conexión con bases de datos  
-💙 Operaciones completas CRUD  
+## 👥 CRUD de Clientes
+💜 Gestión de clientes  
+💜 Conexión a bases de datos  
+💜 Operaciones CRUD completas  
+💜 Backend funcional  
 
 </td>
+
 </tr>
 </table>
 
@@ -139,11 +161,11 @@ Meta: Convertirme en Full Stack Developer
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Java-020617?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-1E3A8A?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Desarrollo%20Web-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-<img src="https://img.shields.io/badge/UI%2FUX%20Design-60A5FA?style=for-the-badge&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-1E1B4B?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-2E1065?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Desarrollo%20Web-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/UI%2FUX%20Design-8B5CF6?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-C084FC?style=for-the-badge&logo=github&logoColor=white"/>
 
 </div>
 
@@ -156,8 +178,8 @@ Meta: Convertirme en Full Stack Developer
 🥇 Creando proyectos modernos y funcionales  
 🥇 Mejorando habilidades en programación  
 🥇 Aprendiendo desarrollo backend  
-🥇 Diseñando interfaces atractivas  
-🥇 Construyendo experiencia profesional  
+🥇 Diseñando interfaces profesionales  
+🥇 Construyendo experiencia en tecnología  
 
 </div>
 
@@ -168,30 +190,30 @@ Meta: Convertirme en Full Stack Developer
 <div align="center">
 
 <a href="https://github.com/19792129-cell">
-<img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-1E3A8A?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-2E1065?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://www.instagram.com/">
-<img src="https://img.shields.io/badge/Instagram-2563EB?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-6D28D9?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="mailto:tuemail@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-60A5FA?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-C084FC?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-# 💙 FRASE PERSONAL
+# 💜 FRASE PERSONAL
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+<img width="100%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </div>
 
@@ -201,7 +223,7 @@ Meta: Convertirme en Full Stack Developer
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+<img width="100%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
@@ -209,6 +231,6 @@ Meta: Convertirme en Full Stack Developer
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:020617,25:0F172A,50:1E3A8A,75:2563EB,100:60A5FA"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&color=0:14001F,25:2E1065,50:6D28D9,75:8B5CF6,100:C084FC"/>
 
 </div>

@@ -81,6 +81,130 @@
 
 <div align="center">
 
+<!-- ================= CONTACTO ================= -->
+
+---
+
+# 📩 FORMULARIO DE CONTACTO
+
+<div align="center">
+
+<form action="https://formsubmit.co/19792129@clases.edu.sv" method="POST">
+
+<input type="hidden" name="_captcha" value="false">
+<input type="hidden" name="_template" value="table">
+
+<table>
+<tr>
+<td>
+
+### 👤 Nombre
+<input type="text" name="Nombre" placeholder="Ingresa tu nombre" required>
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 📧 Correo Electrónico
+<input type="email" name="Correo" placeholder="Ingresa tu correo" required>
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 📱 Número de Teléfono
+<input type="tel" name="Telefono" placeholder="Ingresa tu número" required>
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 📍 Dirección
+<input type="text" name="Direccion" placeholder="Ingresa tu dirección" required>
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 💬 Mensaje
+<textarea name="Mensaje" rows="5" placeholder="Escribe tu mensaje aquí..." required></textarea>
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<br>
+
+<button type="submit">💜 Enviar Mensaje</button>
+
+</td>
+</tr>
+
+</table>
+
+</form>
+
+</div>
+
+<style>
+
+form{
+background: linear-gradient(145deg,#1E1B4B,#6D28D9);
+padding: 30px;
+border-radius: 20px;
+width: 80%;
+box-shadow: 0 0 25px #C084FC;
+}
+
+input, textarea{
+width: 100%;
+padding: 14px;
+margin-top: 10px;
+margin-bottom: 20px;
+border-radius: 12px;
+border: none;
+outline: none;
+background: #14001F;
+color: white;
+font-size: 15px;
+}
+
+input::placeholder,
+textarea::placeholder{
+color: #C084FC;
+}
+
+button{
+background: linear-gradient(90deg,#7C3AED,#C084FC);
+border: none;
+padding: 14px 35px;
+border-radius: 14px;
+color: white;
+font-size: 18px;
+font-weight: bold;
+cursor: pointer;
+transition: 0.3s;
+}
+
+button:hover{
+transform: scale(1.05);
+box-shadow: 0 0 20px #C084FC;
+}
+
+</style>
+
+<!-- ================= FIN CONTACTO ================= -->
+
 
 </div>
 

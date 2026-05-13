@@ -55,7 +55,6 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=19792129-cell&show_icons=true&theme=tokyonight&hide_border=true&bg_color=14001F&title_color=C084FC&icon_color=C084FC&text_color=FFFFFF"/>
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=19792129-cell&theme=tokyonight&hide_border=true&background=14001F&ring=C084FC&fire=C084FC&currStreakLabel=FFFFFF"/>
 
@@ -65,7 +64,6 @@
 
 <div align="center">
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=19792129-cell&theme=tokyo-night&hide_border=true&bg_color=14001F&color=C084FC&line=8B5CF6&point=FFFFFF"/>
 
 </div>
 
@@ -139,15 +137,6 @@
 
 ---
 
-# 🧠 ACTUALMENTE APRENDIENDO
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Java-1E1B4B?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-2E1065?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Desarrollo%20Web-5B21B6?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-<img src="https://img.shields.io/badge/UI%2FUX%20Design-8B5CF6?style=for-the-badge&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-C084FC?style=for-the-badge&logo=github&logoColor=white"/>
 
 </div>
 

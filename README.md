@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=19792129-cell&label=VISITAS+AL+PERFIL&color=7C3AED&style=for-the-badge"/>
+
 
 </div>
 

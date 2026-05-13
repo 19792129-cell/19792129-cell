@@ -6,19 +6,6 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=19792129-cell&label=VISITAS+AL+PERFIL&color=8B5CF6&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/19792129-cell?style=for-the-badge&logo=github&color=7C3AED&labelColor=1E1B4B&label=SEGUIDORES"/>
-
-<img src="https://img.shields.io/github/stars/19792129-cell?style=for-the-badge&logo=github&color=C084FC&labelColor=1E1B4B&label=ESTRELLAS"/>
-
-<br><br>
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=19792129-cell&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
-
-</div>
-
----
 
 # 💜 SOBRE MÍ
 

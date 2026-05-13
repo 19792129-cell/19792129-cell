@@ -1,15 +1,28 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=350&color=0:14001F,25:2E1065,50:6D28D9,75:8B5CF6,100:C084FC&text=Yansi%20Hernández&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=💜%20Estudiante%20de%20Desarrollo%20de%20Software%20💜&descAlignY=58&descSize=23"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=360&color=0:14001F,20:2E1065,40:5B21B6,60:7C3AED,80:A855F7,100:C084FC&text=Yansi%20Hernández&fontSize=78&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=💜%20Estudiante%20de%20Desarrollo%20de%20Software%20💜&descAlignY=58&descSize=23"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=1100&lines=💜+Bienvenido+a+mi+perfil+de+GitHub;💻+Futura+Desarrolladora+Full+Stack;🌐+Apasionada+por+el+Desarrollo+Web;🗄️+Amante+de+las+Bases+de+Datos;🚀+Creando+proyectos+modernos+y+profesionales" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=1200&lines=💜+Bienvenido+a+mi+perfil+de+GitHub;💻+Futura+Desarrolladora+Full+Stack;🌐+Desarrolladora+Web+Creativa;🗄️+Amante+de+PostgreSQL+y+Bases+de+Datos;🚀+Creando+proyectos+modernos+y+profesionales" />
 
 <br><br>
 
+<img src="https://komarev.com/ghpvc/?username=19792129-cell&label=VISITAS+AL+PERFIL&color=8B5CF6&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/19792129-cell?style=for-the-badge&logo=github&color=7C3AED&labelColor=1E1B4B&label=SEGUIDORES"/>
+
+<img src="https://img.shields.io/github/stars/19792129-cell?style=for-the-badge&logo=github&color=C084FC&labelColor=1E1B4B&label=ESTRELLAS"/>
+
+<br><br>
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=19792129-cell&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
 
 # 💜 SOBRE MÍ
 
-<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" width="390" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ```yaml
 👩 Nombre: Yansi Hernández
@@ -26,9 +39,9 @@
 ### 💜 Diseñando páginas web responsivas y dinámicas  
 ### 💜 Aprendiendo backend y bases de datos  
 ### 💜 Mejorando mis habilidades cada día  
-### 💜 Amante del diseño creativo y elegante  
+### 💜 Amante del diseño elegante y creativo  
 ### 💜 Siempre aprendiendo nuevas tecnologías  
-### 💜 Construyendo mi futuro como desarrolladora  
+### 💜 Construyendo mi futuro como desarrolladora Full Stack  
 
 <br><br><br><br><br><br><br><br>
 
@@ -42,7 +55,15 @@
 
 <br><br>
 
-
+<img src="https://img.shields.io/badge/HTML5-1E1B4B?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/CSS3-2E1065?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+<img src="https://img.shields.io/badge/JavaScript-5B21B6?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/Java-7C3AED?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-8B5CF6?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-A855F7?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-9333EA?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-C084FC?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VSCode-581C87?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
 </div>
 
@@ -62,7 +83,7 @@
 
 <div align="center">
 
-<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=19792129-cell&theme=tokyo-night&hide_border=true&bg_color=14001F&color=C084FC&line=8B5CF6&point=FFFFFF"/>
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=19792129-cell&theme=tokyo-night&hide_border=true&bg_color=14001F&color=C084FC&line=8B5CF6&point=FFFFFF"/>
 
 </div>
 
@@ -142,7 +163,7 @@
 
 <img src="https://img.shields.io/badge/Java-1E1B4B?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-2E1065?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Desarrollo%20Web-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Desarrollo%20Web-5B21B6?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 <img src="https://img.shields.io/badge/UI%2FUX%20Design-8B5CF6?style=for-the-badge&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-C084FC?style=for-the-badge&logo=github&logoColor=white"/>
 
@@ -172,12 +193,12 @@
 <img src="https://img.shields.io/badge/GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-2E1065?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://wa.me/50373445120">
+<img src="https://img.shields.io/badge/WhatsApp-5B21B6?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
-<a href="https://www.instagram.com/">
-<img src="https://img.shields.io/badge/Instagram-6D28D9?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://instagram.com/_estefani.mar_">
+<img src="https://img.shields.io/badge/Instagram-8B5CF6?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="mailto:tuemail@gmail.com">
@@ -210,6 +231,6 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&color=0:14001F,25:2E1065,50:6D28D9,75:8B5CF6,100:C084FC"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:14001F,20:2E1065,40:5B21B6,60:7C3AED,80:A855F7,100:C084FC"/>
 
 </div>

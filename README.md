@@ -41,15 +41,6 @@
 
 ---
 
-# 📊 ESTADÍSTICAS DE GITHUB
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=19792129-cell&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1E1B4B&title_color=C084FC&icon_color=C084FC&text_color=FFFFFF"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=19792129-cell&theme=tokyonight&hide_border=true&background=1E1B4B&ring=C084FC&fire=C084FC&currStreakLabel=FFFFFF"/>
-
-</div>
 
 ---
 
@@ -98,7 +89,6 @@
 
 <div align="center">
 
-### 💜 “El código convierte ideas en realidad.”
 
 </div>
 

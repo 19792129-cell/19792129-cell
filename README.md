@@ -6,15 +6,6 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=19792129-cell&label=VISITAS+AL+PERFIL&color=8B5CF6&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/19792129-cell?style=for-the-badge&logo=github&color=7C3AED&labelColor=1E1B4B&label=SEGUIDORES"/>
-
-<img src="https://img.shields.io/github/stars/19792129-cell?style=for-the-badge&logo=github&color=C084FC&labelColor=1E1B4B&label=ESTRELLAS"/>
-
-<br><br>
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=19792129-cell&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
 
 </div>
 
@@ -55,15 +46,6 @@
 
 <br><br>
 
-<img src="https://img.shields.io/badge/HTML5-1E1B4B?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-<img src="https://img.shields.io/badge/CSS3-2E1065?style=for-the-badge&logo=css3&logoColor=1572B6"/>
-<img src="https://img.shields.io/badge/JavaScript-5B21B6?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/Java-7C3AED?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-8B5CF6?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-A855F7?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-9333EA?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-C084FC?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VSCode-581C87?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
 </div>
 

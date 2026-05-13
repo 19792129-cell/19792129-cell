@@ -78,31 +78,32 @@
 </div>
 
 ---
-
-<div align="center">  
-
-<div align="center">
+<table align="center">
+<tr>
+<td>
 
 <form action="https://formsubmit.co/19192129@clases.edu.sv" method="POST">
 
-<div style="width:300px;background:#fff;padding:20px;border-radius:10px;font-family:Arial;box-shadow:0 0 15px #0002;">
+<input type="hidden" name="_captcha" value="false">
 
-<h3 style="color:#B04191;">Formulario de contacto</h3>
+<div style="width:300px;background:white;padding:20px;border-radius:10px;box-shadow:0 0 10px #ccc;font-family:Arial;">
 
-<input type="text" name="Nombre" placeholder="Nombre" required pattern="[A-Za-z ]{3,40}"
-style="width:100%;padding:10px;margin:8px 0;border:1px solid #ccc;border-radius:5px;">
+<h3 align="center" style="color:#B04191;">Formulario de contacto</h3>
+
+<input type="text" name="Nombre" placeholder="Nombre" required
+style="width:100%;padding:10px;margin:5px 0;border:1px solid #ccc;border-radius:5px;">
 
 <input type="email" name="Correo" placeholder="Correo" required
-style="width:100%;padding:10px;margin:8px 0;border:1px solid #ccc;border-radius:5px;">
+style="width:100%;padding:10px;margin:5px 0;border:1px solid #ccc;border-radius:5px;">
 
-<input type="tel" name="Telefono" value="73445120" required pattern="[0-9]{8,15}"
-style="width:100%;padding:10px;margin:8px 0;border:1px solid #ccc;border-radius:5px;">
+<input type="tel" name="Telefono" value="73445120" required
+style="width:100%;padding:10px;margin:5px 0;border:1px solid #ccc;border-radius:5px;">
 
 <input type="text" name="Direccion" value="Caserío El Limón, Cantón El Volcán" required
-style="width:100%;padding:10px;margin:8px 0;border:1px solid #ccc;border-radius:5px;">
+style="width:100%;padding:10px;margin:5px 0;border:1px solid #ccc;border-radius:5px;">
 
 <textarea name="Mensaje" placeholder="Mensaje..." required
-style="width:100%;height:80px;padding:10px;margin:8px 0;border:1px solid #ccc;border-radius:5px;"></textarea>
+style="width:100%;height:80px;padding:10px;margin:5px 0;border:1px solid #ccc;border-radius:5px;"></textarea>
 
 <button type="submit"
 style="width:100%;padding:10px;background:#B04191;color:white;border:none;border-radius:5px;">
@@ -113,4 +114,6 @@ Enviar
 
 </form>
 
-</div>
+</td>
+</tr>
+</table>

@@ -82,78 +82,169 @@
 <div align="center">
 
 
+<!-- ================= FORMULARIO PROFESIONAL ================= -->
 
-
-
-# 📩 FORMULARIO DE CONTACTO
+<section id="contacto">
 
 <div align="center">
 
-<form action="https://formsubmit.co/19792129@clases.edu.sv" method="POST">
+<h1 style="color:#C084FC;">💜 Contáctame</h1>
+
+<p style="color:white;">
+Completa el formulario correctamente y el mensaje será enviado a mi correo.
+</p>
+
+<form action="https://formsubmit.co/19792129@clases.edu.sv" method="POST" class="formulario">
 
 <!-- CONFIGURACIÓN -->
 <input type="hidden" name="_captcha" value="false">
+<input type="hidden" name="_subject" value="Nuevo mensaje desde GitHub">
 <input type="hidden" name="_template" value="table">
-<input type="hidden" name="_subject" value="Nuevo mensaje desde tu GitHub">
-
-<div class="contenedor-formulario">
-
-<h2>💜 Contáctame</h2>
-<p>Completa correctamente la información solicitada</p>
 
 <!-- NOMBRE -->
+<div class="input-box">
 <label>👤 Nombre Completo</label>
 <input 
 type="text" 
-name="Nombre" 
-placeholder="Ejemplo: Juan Pérez"
-pattern="[A-Za-zÁÉÍÓÚáéíóúñÑ ]{5,40}"
-title="Ingresa solo letras y mínimo 5 caracteres"
-required>
+name="nombre"
+placeholder="Ingresa tu nombre completo"
+required
+minlength="5"
+maxlength="40"
+pattern="[A-Za-zÁÉÍÓÚáéíóúñÑ ]+"
+title="Solo letras y espacios">
+</div>
 
 <!-- CORREO -->
+<div class="input-box">
 <label>📧 Correo Electrónico</label>
 <input 
 type="email" 
-name="Correo" 
+name="correo"
 placeholder="ejemplo@gmail.com"
 required>
+</div>
 
 <!-- TELÉFONO -->
+<div class="input-box">
 <label>📱 Número de Teléfono</label>
 <input 
 type="tel" 
-name="Telefono" 
+name="telefono"
 placeholder="0000-0000"
+required
 pattern="[0-9]{4}-[0-9]{4}"
-title="Formato válido: 0000-0000"
-required>
+title="Formato válido: 0000-0000">
+</div>
 
 <!-- DIRECCIÓN -->
+<div class="input-box">
 <label>📍 Dirección</label>
 <input 
 type="text" 
-name="Direccion" 
-placeholder="Ejemplo: San Salvador, El Salvador"
-minlength="10"
-required>
+name="direccion"
+placeholder="Ciudad, País"
+required
+minlength="8">
+</div>
 
 <!-- MENSAJE -->
+<div class="input-box">
 <label>💬 Mensaje</label>
 <textarea 
-name="Mensaje" 
-rows="5" 
-placeholder="Escribe un mensaje claro y profesional..."
-minlength="15"
-required></textarea>
+name="mensaje"
+rows="6"
+placeholder="Escribe tu mensaje..."
+required
+minlength="15"></textarea>
+</div>
 
-<br>
+<!-- BOTÓN -->
+<button type="submit">
+💜 Enviar Mensaje
+</button>
 
-<button type="submit">💜 Enviar Mensaje</button>
----
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1E1B4B,50:6D28D9,100:C084FC"/>
+</form>
 
 </div>
+
+</section>
+
+<style>
+
+#contacto{
+width: 100%;
+display: flex;
+justify-content: center;
+align-items: center;
+padding: 50px 20px;
+}
+
+.formulario{
+width: 100%;
+max-width: 750px;
+background: linear-gradient(145deg,#14001F,#2E1065,#6D28D9);
+padding: 40px;
+border-radius: 25px;
+box-shadow: 0 0 30px rgba(192,132,252,0.5);
+font-family: 'Poppins', sans-serif;
+}
+
+.input-box{
+margin-bottom: 22px;
+text-align: left;
+}
+
+.input-box label{
+display: block;
+margin-bottom: 10px;
+font-size: 16px;
+font-weight: 600;
+color: #FFFFFF;
+}
+
+.input-box input,
+.input-box textarea{
+width: 100%;
+padding: 15px;
+border-radius: 14px;
+border: 2px solid transparent;
+background: #1E1B4B;
+color: white;
+font-size: 15px;
+outline: none;
+transition: 0.3s;
+}
+
+.input-box input:focus,
+.input-box textarea:focus{
+border: 2px solid #C084FC;
+box-shadow: 0 0 15px #C084FC;
+}
+
+.input-box input::placeholder,
+.input-box textarea::placeholder{
+color: #D8B4FE;
+}
+
+button{
+width: 100%;
+padding: 16px;
+border: none;
+border-radius: 15px;
+background: linear-gradient(90deg,#7C3AED,#C084FC);
+color: white;
+font-size: 18px;
+font-weight: bold;
+cursor: pointer;
+transition: 0.3s;
+}
+
+button:hover{
+transform: scale(1.02);
+box-shadow: 0 0 20px #C084FC;
+}
+
+</style>
+
+<!-- ================= FIN FORMULARIO ================= -->

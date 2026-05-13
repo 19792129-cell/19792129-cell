@@ -69,11 +69,6 @@
 
 ---
 
-# 📈 LENGUAJES MÁS UTILIZADOS
-
-<div align="center">
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=19792129-cell&layout=compact&theme=tokyonight&hide_border=true&bg_color=14001F&title_color=C084FC&text_color=FFFFFF"/>
 
 </div>
 

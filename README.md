@@ -80,5 +80,3 @@
 ---
 
 <div align="center">
-
-para githut  pero formulario

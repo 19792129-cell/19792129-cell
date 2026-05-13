@@ -81,9 +81,9 @@
 
 <div align="center">
 
-<!-- ================= CONTACTO ================= -->
 
----
+
+
 
 # 📩 FORMULARIO DE CONTACTO
 
@@ -91,123 +91,65 @@
 
 <form action="https://formsubmit.co/19792129@clases.edu.sv" method="POST">
 
+<!-- CONFIGURACIÓN -->
 <input type="hidden" name="_captcha" value="false">
 <input type="hidden" name="_template" value="table">
+<input type="hidden" name="_subject" value="Nuevo mensaje desde tu GitHub">
 
-<table>
-<tr>
-<td>
+<div class="contenedor-formulario">
 
-### 👤 Nombre
-<input type="text" name="Nombre" placeholder="Ingresa tu nombre" required>
+<h2>💜 Contáctame</h2>
+<p>Completa correctamente la información solicitada</p>
 
-</td>
-</tr>
+<!-- NOMBRE -->
+<label>👤 Nombre Completo</label>
+<input 
+type="text" 
+name="Nombre" 
+placeholder="Ejemplo: Juan Pérez"
+pattern="[A-Za-zÁÉÍÓÚáéíóúñÑ ]{5,40}"
+title="Ingresa solo letras y mínimo 5 caracteres"
+required>
 
-<tr>
-<td>
+<!-- CORREO -->
+<label>📧 Correo Electrónico</label>
+<input 
+type="email" 
+name="Correo" 
+placeholder="ejemplo@gmail.com"
+required>
 
-### 📧 Correo Electrónico
-<input type="email" name="Correo" placeholder="Ingresa tu correo" required>
+<!-- TELÉFONO -->
+<label>📱 Número de Teléfono</label>
+<input 
+type="tel" 
+name="Telefono" 
+placeholder="0000-0000"
+pattern="[0-9]{4}-[0-9]{4}"
+title="Formato válido: 0000-0000"
+required>
 
-</td>
-</tr>
+<!-- DIRECCIÓN -->
+<label>📍 Dirección</label>
+<input 
+type="text" 
+name="Direccion" 
+placeholder="Ejemplo: San Salvador, El Salvador"
+minlength="10"
+required>
 
-<tr>
-<td>
-
-### 📱 Número de Teléfono
-<input type="tel" name="Telefono" placeholder="Ingresa tu número" required>
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### 📍 Dirección
-<input type="text" name="Direccion" placeholder="Ingresa tu dirección" required>
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### 💬 Mensaje
-<textarea name="Mensaje" rows="5" placeholder="Escribe tu mensaje aquí..." required></textarea>
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
+<!-- MENSAJE -->
+<label>💬 Mensaje</label>
+<textarea 
+name="Mensaje" 
+rows="5" 
+placeholder="Escribe un mensaje claro y profesional..."
+minlength="15"
+required></textarea>
 
 <br>
 
 <button type="submit">💜 Enviar Mensaje</button>
-
-</td>
-</tr>
-
-</table>
-
-</form>
-
-</div>
-
-<style>
-
-form{
-background: linear-gradient(145deg,#1E1B4B,#6D28D9);
-padding: 30px;
-border-radius: 20px;
-width: 80%;
-box-shadow: 0 0 25px #C084FC;
-}
-
-input, textarea{
-width: 100%;
-padding: 14px;
-margin-top: 10px;
-margin-bottom: 20px;
-border-radius: 12px;
-border: none;
-outline: none;
-background: #14001F;
-color: white;
-font-size: 15px;
-}
-
-input::placeholder,
-textarea::placeholder{
-color: #C084FC;
-}
-
-button{
-background: linear-gradient(90deg,#7C3AED,#C084FC);
-border: none;
-padding: 14px 35px;
-border-radius: 14px;
-color: white;
-font-size: 18px;
-font-weight: bold;
-cursor: pointer;
-transition: 0.3s;
-}
-
-button:hover{
-transform: scale(1.05);
-box-shadow: 0 0 20px #C084FC;
-}
-
-</style>
-
-<!-- ================= FIN CONTACTO ================= -->
-
-
-</div>
-
 ---
 
 <div align="center">

@@ -1,9 +1,78 @@
-<div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:1E1B4B,50:6D28D9,100:C084FC&text=Yansi%20Hernández&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=💜%20Estudiante%20de%20Desarrollo%20de%20Software%20💜&descAlignY=58&descSize=20"/> <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=900&lines=💜+Bienvenido+a+mi+perfil+de+GitHub;💻+Futura+Desarrolladora+Full+Stack;🌐+Desarrollo+Web+y+Bases+de+Datos;🚀+Creando+proyectos+modernos" /> <br> </div> --- # 💜 SOBRE MÍ
-yaml
-👩 Nombre: Yansi Hernández
-💻 Carrera: Desarrollo de Software
-🌎 País: El Salvador
-🚀 Especialidad: Desarrollo Web
-🗄️ Base de Datos: PostgreSQL & MySQL
-🔥 Meta: Ser Full Stack Developer
-### 💜 Apasionada por la programación ### 💜 Creando proyectos modernos y profesionales ### 💜 Aprendiendo desarrollo web y backend ### 💜 Mejorando mis habilidades cada día ### 💜 Amante del diseño creativo y elegante --- # ⚡ TECNOLOGÍAS Y HERRAMIENTAS <div align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,java,postgresql,mysql,git,github,vscode&theme=dark" /> </div> --- --- # 🚀 PROYECTOS - 🛒 Sistema de ventas con PostgreSQL - 📦 Sistema de inventario - 🌐 Página web responsiva - 👥 CRUD de clientes y productos --- # 🌐 CONTACTO <div align="center"> <a href="https://github.com/19792129-cell"> <img src="https://img.shields.io/badge/GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://wa.me/50373445120"> <img src="https://img.shields.io/badge/WhatsApp-6D28D9?style=for-the-badge&logo=whatsapp&logoColor=white"/> </a> <a href="https://instagram.com/_estefani.mar_"> <img src="https://img.shields.io/badge/Instagram-8B5CF6?style=for-the-badge&logo=instagram&logoColor=white"/> </a> <a href="mailto:19792129@clases.edu.sv"> <img src="https://img.shields.io/badge/Gmail-C084FC?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </div> --- <table align="center"> <tr> <td> <form action="https://formsubmit.co/19192129@clases.edu.sv" method="POST"> <input type="hidden" name="_captcha" value="false"> <div style="width:300px;background:white;padding:20px;border-radius:10px;box-shadow:0 0 10px #ccc;font-family:Arial;"> <h3 align="center" style="color:#B04191;">Formulario de contacto</h3> <input type="text" name="Nombre" placeholder="Nombre" required style="width:100%;padding:10px;margin:5px 0;border:1px solid #ccc;border-radius:5px;"> <input type="email" name="Correo" placeholder="Correo" required style="width:100%;padding:10px;margin:5px 0;border:1px solid #ccc;border-radius:5px;"> <input type="tel" name="Telefono" value="73445120" required style="width:100%;padding:10px;margin:5px 0;border:1px solid #ccc;border-radius:5px;"> <input type="text" name="Direccion" value="Caserío El Limón, Cantón El Volcán" required style="width:100%;padding:10px;margin:5px 0;border:1px solid #ccc;border-radius:5px;"> <textarea name="Mensaje" placeholder="Mensaje..." required style="width:100%;height:80px;padding:10px;margin:5px 0;border:1px solid #ccc;border-radius:5px;"></textarea> <button type="submit" style="width:100%;padding:10px;background:#B04191;color:white;border:none;border-radius:5px;"> Enviar </button> </div> </form> </td> </tr> </table>
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,50:2563EB,100:38BDF8&text=Yansi%20Hernández&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=38"/>
+
+# 💻 Bienvenidos a mi perfil
+
+✨ Desarrolladora apasionada por la tecnología y diseño web profesional 🚀
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=38BDF8&center=true&vCenter=true&width=600&lines=Frontend+Developer;Backend+Developer;SQL+%7C+PostgreSQL;Diseño+Web+Profesional" />
+
+</div>
+
+---
+
+# 🚀 Tecnologías
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,github,vscode,postgresql" />
+</p>
+
+---
+
+# 📬 Contáctame
+
+<div align="center">
+
+<form action="https://formsubmit.co/19792129@clases.edu.sv" method="POST">
+
+<input type="hidden" name="_captcha" value="false">
+<input type="hidden" name="_template" value="table">
+
+<input type="text" name="nombre" placeholder="👤 Tu nombre" required><br><br>
+
+<input type="email" name="email" placeholder="📧 Tu correo" required><br><br>
+
+<input type="tel" name="telefono" placeholder="📱 Tu teléfono" required><br><br>
+
+<textarea name="mensaje" rows="5" placeholder="📝 Escribe tu mensaje" required></textarea><br><br>
+
+<button type="submit">Enviar Mensaje 🚀</button>
+
+</form>
+
+</div>
+
+---
+
+# 📊 Estadísticas
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<a href="mailto:19792129@clases.edu.sv">
+<img src="https://img.shields.io/badge/Gmail-2563EB?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/TUUSUARIO">
+<img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,50:2563EB,100:38BDF8"/>
+
+</div>

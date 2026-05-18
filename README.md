@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,50:6D28D9,100:C084FC&text=Yansi%20Hernández&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 
-# 💜 Yansi Hernández 💜
+
 
 ### 💻 Desarrolladora Web | Frontend Developer | Estudiante de Programación
 

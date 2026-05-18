@@ -2,7 +2,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,50:6D28D9,100:C084FC&text=Yansi%20Hernández&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 
-
 ### 💻 Desarrolladora Web | Frontend Developer | Estudiante de Programación
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=C084FC&center=true&vCenter=true&width=700&lines=Bienvenido+al+perfil+de+Yansi+Hernández+💜;Frontend+Developer+✨;Amante+de+la+Tecnología+💻;Siempre+aprendiendo+nuevas+cosas+🚀"/>
@@ -44,8 +43,6 @@
 
 ---
 
-
----
 # 🚀 Tecnologías
 
 <div align="center">
@@ -84,14 +81,66 @@
 
 </div>
 
+---
+
+# 📩 Formulario de Contacto
+
+<div align="center">
+
+<form action="https://formspree.io/f/xpqnwrpk" method="POST">
+
+<input type="text" 
+name="nombre" 
+placeholder="Tu Nombre" 
+required 
+style="width:80%;padding:15px;margin:10px;border:none;border-radius:10px;background:#1F2937;color:white;"/>
+
+<br>
+
+<input type="email" 
+name="email" 
+placeholder="Tu Correo" 
+required 
+style="width:80%;padding:15px;margin:10px;border:none;border-radius:10px;background:#1F2937;color:white;"/>
+
+<br>
+
+<input type="tel" 
+name="telefono" 
+placeholder="Tu Teléfono" 
+required 
+style="width:80%;padding:15px;margin:10px;border:none;border-radius:10px;background:#1F2937;color:white;"/>
+
+<br>
+
+<textarea 
+name="mensaje" 
+placeholder="Escribe tu mensaje"
+required
+style="width:80%;height:120px;padding:15px;margin:10px;border:none;border-radius:10px;background:#1F2937;color:white;">
+</textarea>
+
+<br>
+
+<button type="submit"
+style="padding:15px 40px;border:none;border-radius:10px;background:#7C3AED;color:white;font-size:18px;cursor:pointer;">
+Enviar Mensaje 🚀
+</button>
+
+</form>
+
+</div>
+
+---
+
 <div align="center">
 
 ## 💜 Gracias por visitar mi perfil 💜
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,50:6D28D9,100:C084FC"/>
 
-</div> 
-{Mi formulario}(https://formspree.io/f/xpqnwrpk}
+</div>
+
 
 
 

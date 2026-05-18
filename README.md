@@ -19,7 +19,9 @@
 
 ---
 
-# 📞 Contactos
+# 📞 Contactos    
+
+[📩 Ir al Formulario](file:///C:/Users/Yansi/OneDrive/Desktop/html/Untitled-1.html)
 
 <div align="center">
 
@@ -81,50 +83,7 @@
 
 </div>
 
----
-
-# 📩 Formulario de Contacto
-
-<div align="center">
-
-<form action="https://formspree.io/f/xpqnwrpk" method="POST">
-
-<input type="text" 
-name="nombre" 
-placeholder="Tu Nombre" 
-required 
-style="width:80%;padding:15px;margin:10px;border:none;border-radius:10px;background:#1F2937;color:white;"/>
-
-<br>
-
-<input type="email" 
-name="email" 
-placeholder="Tu Correo" 
-required 
-style="width:80%;padding:15px;margin:10px;border:none;border-radius:10px;background:#1F2937;color:white;"/>
-
-<br>
-
-<input type="tel" 
-name="telefono" 
-placeholder="Tu Teléfono" 
-required 
-style="width:80%;padding:15px;margin:10px;border:none;border-radius:10px;background:#1F2937;color:white;"/>
-
-<br>
-
-<textarea 
-name="mensaje" 
-placeholder="Escribe tu mensaje"
-required
-style="width:80%;height:120px;padding:15px;margin:10px;border:none;border-radius:10px;background:#1F2937;color:white;">
-</textarea>
-
-<br>
-
-<button type="submit"
-style="padding:15px 40px;border:none;border-radius:10px;background:#7C3AED;color:white;font-size:18px;cursor:pointer;">
-Enviar Mensaje 🚀
+ 🚀
 </button>
 
 </form>
@@ -140,7 +99,7 @@ Enviar Mensaje 🚀
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,50:6D28D9,100:C084FC"/>
 
 </div>
-
+               
 
 
 

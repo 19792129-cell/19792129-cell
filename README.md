@@ -18,7 +18,6 @@
 💜 Me apasiona el desarrollo web  
 🚀 Actualmente aprendiendo nuevas tecnologías  
 🎯 Objetivo: Convertirme en desarrolladora profesional  
-🌎 Soy de El Salvador 🇸🇻  
 
 ---
 
@@ -26,19 +25,19 @@
 
 <div align="center">
 
-<a href="mailto:19792129@clases.edu.sv" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-19792129%40clases.edu.sv-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:19792129@clases.edu.sv">
+<img src="https://img.shields.io/badge/Gmail-Enviar%20Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br><br>
 
-<a href="https://wa.me/50373445120" target="_blank">
-<img src="https://img.shields.io/badge/WhatsApp-73445120-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+<a href="https://wa.me/50373445120">
+<img src="https://img.shields.io/badge/WhatsApp-Escribirme-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
 <br><br>
 
-<a href="https://github.com/YansiEstefani" target="_blank">
+<a href="https://github.com/YansiEstefani">
 <img src="https://img.shields.io/badge/GitHub-Yansi%20Hernández-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -46,6 +45,21 @@
 
 ---
 
+# 🌐 Redes Sociales
+
+<div align="center">
+
+<a href="https://www.facebook.com/" target="_blank">
+<img src="https://img.shields.io/badge/Facebook-Abrir%20Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-Abrir%20Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.tiktok.com/" target="_blank">
+<img src="https://img.shields.io/badge/TikTok-Abrir%20TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+</a>
 
 </div>
 
@@ -58,9 +72,6 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,python,postgresql,git,github,vscode"/>
 
 </div>
-
----
-
 
 ---
 

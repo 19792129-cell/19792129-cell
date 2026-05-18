@@ -1,4 +1,3 @@
-```md
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,50:6D28D9,100:C084FC&text=Yansi%20Hernández&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
@@ -19,7 +18,7 @@
 💜 Me apasiona el desarrollo web  
 🚀 Actualmente aprendiendo nuevas tecnologías  
 🎯 Objetivo: Convertirme en desarrolladora profesional  
-🌎 El Salvador 🇸🇻  
+🌎 Soy de El Salvador 🇸🇻  
 
 ---
 
@@ -27,19 +26,19 @@
 
 <div align="center">
 
-<a href="mailto:19792129@clases.edu.sv">
+<a href="mailto:19792129@clases.edu.sv" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-19792129%40clases.edu.sv-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br><br>
 
-<a href="https://wa.me/50373445120">
+<a href="https://wa.me/50373445120" target="_blank">
 <img src="https://img.shields.io/badge/WhatsApp-73445120-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
 <br><br>
 
-<a href="https://github.com/YansiEstefani">
+<a href="https://github.com/YansiEstefani" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-Yansi%20Hernández-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -51,15 +50,15 @@
 
 <div align="center">
 
-<a href="https://facebook.com/">
+<a href="https://facebook.com/" target="_blank">
 <img src="https://img.shields.io/badge/Facebook-Yansi%20Hernández-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
-<a href="https://instagram.com/">
+<a href="https://instagram.com/" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-Yansi%20Hernández-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://tiktok.com/">
+<a href="https://tiktok.com/" target="_blank">
 <img src="https://img.shields.io/badge/TikTok-Yansi%20Hernández-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
 </a>
 
@@ -87,7 +86,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,50:6D28D9,100:C084FC"/>
 
 </div>
-```
 
 
 

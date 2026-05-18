@@ -4,7 +4,6 @@
 
 </div>
 
-<h1 align="center">✨ Hola, soy Yansi Hernández ✨</h1>
 
 <h3 align="center">💻 Desarrolladora Web | Frontend Developer | Estudiante de Programación</h3>
 

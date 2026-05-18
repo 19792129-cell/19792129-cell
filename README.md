@@ -90,7 +90,8 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,50:6D28D9,100:C084FC"/>
 
-</div>
+</div> 
+https://formspree.io/f/xpqnwrpk
 
 
 

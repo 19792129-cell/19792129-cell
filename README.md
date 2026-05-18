@@ -16,6 +16,21 @@
 </div>
 
 ---
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+```yaml
+👩 Nombre: Yansi Hernández
+💻 Carrera: Desarrollo de Software
+🌎 País: El Salvador
+🚀 Especialidad: Desarrollo Web
+🗄️ Bases de Datos: PostgreSQL & MySQL
+🔥 Meta: Ser Full Stack Developer
+📚 Actualmente: Aprendiendo Backend
+🎨 Diseño: Interfaces modernas y elegantes
 
 # 🌌 Sobre mí
 

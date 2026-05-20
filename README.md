@@ -1,33 +1,35 @@
-```md
+```md id="githubprofileyansipro"
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F172A,50:7C3AED,100:C084FC&text=Yansi%20Hernández&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20💜&descAlignY=58&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0F172A,50:7C3AED,100:C084FC&text=Yansi%20Hernández&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20💜&descAlignY=58&descSize=22"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=C084FC&center=true&vCenter=true&width=850&lines=Frontend+Developer+✨;Diseñando+experiencias+web+modernas+💻;Apasionada+por+la+tecnología+🚀;Construyendo+mi+camino+como+desarrolladora+💜"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&color=C084FC&center=true&vCenter=true&width=900&lines=Frontend+Developer+✨;Creando+experiencias+web+modernas+💻;Apasionada+por+la+Tecnología+🚀;Diseño+y+Desarrollo+Web+💜;Siempre+aprendiendo+nuevas+tecnologías+🌸"/>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=YansiEstefani&label=Visitas%20al%20perfil&color=7C3AED&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=YansiEstefani&label=Visitas%20al%20Perfil&color=7C3AED&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 👩‍💻 Perfil Profesional
+# 👩‍💻 Sobre Mí
 
-<img align="right" width="280" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<img align="right" width="300" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
-💜 Soy **Yansi Hernández**, desarrolladora web en formación especializada en interfaces modernas y experiencias digitales atractivas.  
+💜 Hola, soy **Yansi Hernández**  
 
-🚀 Me enfoco en el aprendizaje continuo dentro del desarrollo frontend, creando proyectos visuales, dinámicos y funcionales.  
+💻 Desarrolladora web en formación apasionada por el diseño y la programación.  
 
-💻 Trabajo con tecnologías enfocadas en diseño web, estructura de aplicaciones y desarrollo de software moderno.  
+🚀 Me especializo en la creación de interfaces modernas, visuales y dinámicas enfocadas en la experiencia del usuario.  
 
-🎯 Mi objetivo es crecer profesionalmente en el mundo de la programación y construir proyectos innovadores que generen impacto.  
+🌸 Actualmente continúo fortaleciendo mis conocimientos en desarrollo frontend y tecnologías modernas.  
 
-🌸 Me caracteriza la creatividad, la dedicación y la pasión por aprender nuevas tecnologías.  
+🎯 Mi objetivo es crecer profesionalmente en el mundo tecnológico y desarrollar proyectos innovadores.  
 
-<br><br>
+✨ Me caracteriza la creatividad, la dedicación y el aprendizaje constante.  
+
+<br><br><br>
 
 ---
 
@@ -42,19 +44,19 @@
 <br><br>
 
 <a href="mailto:19792129@clases.edu.sv">
-<img src="https://img.shields.io/badge/Gmail-Enviar%20Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-19792129@clases.edu.sv-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br><br>
 
 <a href="https://wa.me/50373445120" target="_blank">
-<img src="https://img.shields.io/badge/WhatsApp-Escribirme-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+<img src="https://img.shields.io/badge/WhatsApp-73445120-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
 <br><br>
 
 <a href="https://github.com/YansiEstefani" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-Yansi%20Hernández-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-YansiEstefani-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -83,7 +85,7 @@
 
 ---
 
-# 🔥 Actividad en GitHub
+# 🔥 Racha de Contribuciones
 
 <div align="center">
 
@@ -97,7 +99,7 @@
 
 <div align="center">
 
-✨ “La programación es creatividad, lógica y pasión convertidas en soluciones digitales.” ✨
+✨ “La programación transforma ideas en experiencias digitales.” ✨
 
 </div>
 
@@ -107,10 +109,11 @@
 
 ## 💜 Gracias por visitar mi perfil 💜
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0F172A,50:7C3AED,100:C084FC"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:0F172A,50:7C3AED,100:C084FC"/>
 
 </div>
 ```
+
 
 
 

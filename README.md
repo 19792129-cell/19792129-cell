@@ -3,7 +3,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F172A,50:7C3AED,100:C084FC&text=Yansi%20Hernández&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20💜&descAlignY=58&descSize=20"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=C084FC&center=true&vCenter=true&width=850&lines=Bienvenido+a+mi+perfil+de+GitHub+💜;Frontend+Developer+✨;Apasionada+por+la+Tecnología+💻;Creando+proyectos+modernos+🚀;Siempre+aprendiendo+nuevas+tecnologías+🌸"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=C084FC&center=true&vCenter=true&width=850&lines=Frontend+Developer+✨;Diseñando+experiencias+web+modernas+💻;Apasionada+por+la+tecnología+🚀;Construyendo+mi+camino+como+desarrolladora+💜"/>
 
 <br>
 
@@ -13,16 +13,19 @@
 
 ---
 
-# 💜 Sobre mí
+# 👩‍💻 Perfil Profesional
 
-<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" width="280" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-✨ Hola, soy **Yansi Hernández**  
-💻 Estudiante de programación y desarrollo web  
-🚀 Me encanta crear interfaces modernas y atractivas  
-🌸 Actualmente aprendiendo nuevas tecnologías  
-🎯 Mi meta es convertirme en una desarrolladora profesional  
-💜 Amante del diseño, la creatividad y la tecnología  
+💜 Soy **Yansi Hernández**, desarrolladora web en formación especializada en interfaces modernas y experiencias digitales atractivas.  
+
+🚀 Me enfoco en el aprendizaje continuo dentro del desarrollo frontend, creando proyectos visuales, dinámicos y funcionales.  
+
+💻 Trabajo con tecnologías enfocadas en diseño web, estructura de aplicaciones y desarrollo de software moderno.  
+
+🎯 Mi objetivo es crecer profesionalmente en el mundo de la programación y construir proyectos innovadores que generen impacto.  
+
+🌸 Me caracteriza la creatividad, la dedicación y la pasión por aprender nuevas tecnologías.  
 
 <br><br>
 
@@ -80,7 +83,7 @@
 
 ---
 
-# 🔥 Racha de Contribuciones
+# 🔥 Actividad en GitHub
 
 <div align="center">
 
@@ -90,11 +93,11 @@
 
 ---
 
-# 🌸 Frase
+# 🌸 Filosofía
 
 <div align="center">
 
-✨ *“El éxito en programación no es magia, es práctica, creatividad y pasión.”* ✨
+✨ “La programación es creatividad, lógica y pasión convertidas en soluciones digitales.” ✨
 
 </div>
 
@@ -108,10 +111,6 @@
 
 </div>
 ```
-
-               
-
-
 
 
 

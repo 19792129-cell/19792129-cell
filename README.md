@@ -20,6 +20,9 @@
 ---
 
 # 📞 Contactos    
+<a href="https://19792129-cell.github.io/FORMULARIO/formulario.html" target="_blank">
+<img src="https://img.shields.io/badge/Formulario-Contactarme-6D28D9?style=for-the-badge&logo=googleforms&logoColor=white"/>
+</a>
 
 [📩 Ir al Formulario](file:///C:/Users/Yansi/OneDrive/Desktop/html/Untitled-1.html)
 

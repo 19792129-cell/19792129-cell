@@ -1,44 +1,46 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0F172A,50:7C3AED,100:C084FC&text=Yansi%20Hernández&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20💜&descAlignY=58&descSize=22"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=330&color=0:0B1120,50:7C3AED,100:C084FC&text=Yansi%20Hernández&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20•%20UI%2FUX%20Enthusiast%20💜&descAlignY=58&descSize=22"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&color=C084FC&center=true&vCenter=true&width=900&lines=Frontend+Developer+✨;Creando+experiencias+web+modernas+💻;Apasionada+por+la+Tecnología+🚀;Diseño+y+Desarrollo+Web+💜;Siempre+aprendiendo+nuevas+tecnologías+🌸"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=2800&color=C084FC&center=true&vCenter=true&width=950&lines=Frontend+Developer+✨;Creando+interfaces+modernas+y+dinámicas+💻;Diseño+web+con+estilo+y+creatividad+🎨;Apasionada+por+la+tecnología+🚀;Siempre+aprendiendo+y+mejorando+🌸"/>
 
-<br>
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=YansiEstefani&label=Visitas%20al%20Perfil&color=7C3AED&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=YansiEstefani&label=PROFILE+VIEWS&color=7C3AED&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 👩‍💻 Sobre Mí
+# 💜 Sobre Mí
 
-<img align="right" width="300" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+<img align="right" width="310" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-💜 Hola, soy **Yansi Hernández**  
+✨ Hola, soy **Yansi Hernández**  
 
-💻 Desarrolladora web en formación apasionada por el diseño y la programación.  
+💻 Desarrolladora Frontend enfocada en la creación de experiencias web modernas, elegantes y funcionales.  
 
-🚀 Me especializo en la creación de interfaces modernas, visuales y dinámicas enfocadas en la experiencia del usuario.  
+🎨 Me apasiona combinar diseño y programación para construir interfaces atractivas y dinámicas.  
 
-🌸 Actualmente continúo fortaleciendo mis conocimientos en desarrollo frontend y tecnologías modernas.  
+🚀 Actualmente continúo fortaleciendo mis conocimientos en tecnologías frontend y desarrollo web moderno.  
 
-🎯 Mi objetivo es crecer profesionalmente en el mundo tecnológico y desarrollar proyectos innovadores.  
+🌸 Disfruto aprender nuevas herramientas, crear proyectos creativos y mejorar constantemente mis habilidades.  
 
-✨ Me caracteriza la creatividad, la dedicación y el aprendizaje constante.  
+🎯 Mi objetivo es crecer profesionalmente en el área tecnológica y participar en proyectos innovadores.  
+
+⚡ Me caracterizo por la creatividad, dedicación y pasión por el aprendizaje continuo.  
 
 <br><br><br>
 
 ---
 
-# 🌐 Contactos
+# 🌐 Contacto Profesional
 
 <div align="center">
 
 <a href="https://19792129-cell.github.io/FORMULARIO/formulario.html" target="_blank">
-<img src="https://img.shields.io/badge/Formulario%20Profesional-Contactarme-7C3AED?style=for-the-badge&logo=googleforms&logoColor=white"/>
+<img src="https://img.shields.io/badge/🌸%20Formulario%20Profesional-Contactarme-7C3AED?style=for-the-badge"/>
 </a>
 
 <br><br>
@@ -63,11 +65,11 @@
 
 ---
 
-# 🚀 Tecnologías y Herramientas
+# 🚀 Tecnologías & Herramientas
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,postgresql,git,github,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,postgresql,git,github,vscode,figma&theme=dark"/>
 
 </div>
 
@@ -95,11 +97,24 @@
 
 ---
 
-# 🌸 Filosofía
+# 🌸 Actualmente Aprendiendo
 
 <div align="center">
 
-✨ “La programación transforma ideas en experiencias digitales.” ✨
+✨ JavaScript Moderno  
+✨ Diseño Responsive  
+✨ UI/UX Design  
+✨ Desarrollo Web Profesional  
+
+</div>
+
+---
+
+# 💡 Filosofía
+
+<div align="center">
+
+✨ “El diseño inspira, pero el código le da vida a las ideas.” ✨
 
 </div>
 
@@ -109,29 +124,6 @@
 
 ## 💜 Gracias por visitar mi perfil 💜
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:0F172A,50:7C3AED,100:C084FC"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&color=0:0B1120,50:7C3AED,100:C084FC"/>
 
 </div>
-```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

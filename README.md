@@ -1,13 +1,37 @@
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=330&color=0:0B1120,50:7C3AED,100:C084FC&text=Yansi%20Hernández&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20•%20UI%2FUX%20Enthusiast%20💜&descAlignY=58&descSize=22"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=350&color=0:050816,25:4C1D95,50:7C3AED,75:A855F7,100:C084FC&text=Yansi%20Hernández&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20•%20UI/UX%20Designer%20💜&descAlignY=58&descSize=24"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=2800&color=C084FC&center=true&vCenter=true&width=950&lines=Frontend+Developer+✨;Creando+interfaces+modernas+y+dinámicas+💻;Diseño+web+con+estilo+y+creatividad+🎨;Apasionada+por+la+tecnología+🚀;Siempre+aprendiendo+y+mejorando+🌸"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=31&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&width=1000&lines=✨+Frontend+Developer;💻+Creando+Experiencias+Web+Modernas;🚀+Apasionada+por+la+Tecnología;🎨+Diseño+UI/UX;🌸+Siempre+Aprendiendo+Nuevas+Tecnologías"/>
 
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=YansiEstefani&label=PROFILE+VIEWS&color=7C3AED&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/YansiEstefani?style=for-the-badge&color=C084FC&labelColor=0D1117"/>
+
+<img src="https://img.shields.io/github/stars/YansiEstefani?style=for-the-badge&color=A855F7&labelColor=0D1117"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 💜 SOBRE MÍ 💜
+
+</div>
+
+<table>
+<tr>
+<td width="60%">
+
+```yaml
+Nombre: Yansi Hernández
+Especialidad: Frontend Development
+Ubicación: El Salvador 🇸🇻
+Tecnologías: HTML • CSS • JavaScript • Python
+Herramientas: Git • GitHub • VS Code • PostgreSQL
 
 </div>
 

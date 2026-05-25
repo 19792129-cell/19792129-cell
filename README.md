@@ -1,47 +1,28 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=350&color=0:050816,25:312E81,50:6D28D9,75:A855F7,100:C084FC&text=Yansi%20Hernández&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20💜&descAlignY=58&descSize=24"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=350&color=0:050816,25:312E81,50:6D28D9,75:A855F7,100:C084FC&text=Yansi%20Hernández&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&color=C084FC&center=true&vCenter=true&width=900&lines=Bienvenida+a+mi+perfil+💜;Frontend+Developer+✨;Diseñando+interfaces+modernas+💻;Apasionada+por+la+Tecnología+🚀"/>
+</div>
 
-<br>
+<img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&color=C084FC&center=true&vCenter=true&width=1000&lines=Frontend+Developer+💜;Diseño+y+Programación+✨;Creando+experiencias+modernas+🚀"/>
 
-<img src="https://img.shields.io/badge/PROFILE-DARK%20MODE-0F172A?style=for-the-badge&logo=github&logoColor=C084FC"/>
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=80&text=💜%20SOBRE%20MÍ&fontSize=35&fontColor=ffffff&color=0:111827,100:4C1D95"/>
+
+<div align="center">
+
+### 💻 Desarrolladora web en formación  
+### 🚀 Apasionada por el frontend y diseño UI  
+### 🌸 Aprendiendo nuevas tecnologías  
+### 🎯 Objetivo: Convertirme en desarrolladora profesional  
 
 </div>
 
 ---
 
-<table>
-<tr>
-<td width="50%">
-
-## 💜 Sobre mí
-
-✨ Soy **Yansi Hernández**  
-
-💻 Desarrolladora web en formación.  
-
-🚀 Enfocada en frontend moderno y diseño UI.  
-
-🌸 Apasionada por la tecnología y la creatividad.  
-
-🎯 Objetivo: Convertirme en desarrolladora profesional.  
-
-</td>
-
-<td width="50%">
-
-<img width="100%" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
-
-</td>
-</tr>
-</table>
-
----
-
-# 🌐 Contactos
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=80&text=🌐%20CONTACTOS&fontSize=35&fontColor=ffffff&color=0:111827,100:6D28D9"/>
 
 <div align="center">
 
@@ -65,7 +46,7 @@
 
 ---
 
-# 🚀 Tecnologías
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=80&text=🚀%20TECNOLOGÍAS&fontSize=35&fontColor=ffffff&color=0:111827,100:A855F7"/>
 
 <div align="center">
 
@@ -105,31 +86,19 @@
 
 ---
 
-# 📊 Estadísticas
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=80&text=📊%20ESTADÍSTICAS&fontSize=35&fontColor=ffffff&color=0:111827,100:C084FC"/>
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YansiEstefani&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=A855F7"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YansiEstefani&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YansiEstefani&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC"/>
-
-</div>
-
----
-
-# 🔥 Actividad
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=YansiEstefani&theme=tokyonight&hide_border=true&background=0D1117&ring=C084FC&fire=A855F7&currStreakLabel=C084FC"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YansiEstefani&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
 <div align="center">
-
-## 💜 Gracias por visitar mi perfil 💜
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:050816,25:312E81,50:6D28D9,75:A855F7,100:C084FC"/>
 

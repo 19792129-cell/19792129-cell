@@ -1,7 +1,7 @@
 ```markdown
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0F172A,25:312E81,50:7C3AED,75:A855F7,100:C084FC&text=Yansi%20Hernández&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20•%20UI/UX%20Designer&descAlignY=58&descSize=22"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0F172A,25:312E81,50:7C3AED,75:A855F7,100:C084FC&text=Yansi%20Hernández&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20•%20UI/UX%20Designer&descAlignY=58&descSize=22"/>
 
 <br>
 
@@ -19,11 +19,11 @@
 
 💻 Desarrolladora Frontend apasionada por crear interfaces modernas, elegantes y funcionales.  
 
-🎨 Me gusta combinar diseño y programación para desarrollar experiencias visuales atractivas.  
+🎨 Me encanta combinar diseño y programación para construir experiencias web atractivas.  
 
-🚀 Actualmente continúo fortaleciendo mis conocimientos en desarrollo web moderno y tecnologías frontend.  
+🚀 Actualmente sigo fortaleciendo mis conocimientos en desarrollo web moderno y tecnologías frontend.  
 
-🌸 Disfruto aprender nuevas herramientas, construir proyectos creativos y mejorar constantemente mis habilidades.  
+🌸 Disfruto aprender nuevas herramientas, crear proyectos creativos y mejorar constantemente mis habilidades.  
 
 ⚡ Me caracterizo por la creatividad, dedicación y pasión por la tecnología.  
 
@@ -73,9 +73,13 @@
 <img src="https://img.shields.io/badge/Gmail-Contactar-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+<br><br>
+
 <a href="https://github.com/YansiEstefani" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-YansiEstefani-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+<br><br>
 
 <a href="https://wa.me/50373445120" target="_blank">
 <img src="https://img.shields.io/badge/WhatsApp-Escribirme-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
@@ -102,7 +106,7 @@
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+✨ “El diseño inspira, pero el código le da vida a las ideas.” ✨
 
 </div>
 
@@ -110,9 +114,8 @@
 
 <div align="center">
 
-### 💜 Gracias por visitar mi perfil 💜
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,25:312E81,50:7C3AED,75:A855F7,100:C084FC"/>
 
 </div>
 ```
+

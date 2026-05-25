@@ -1,34 +1,47 @@
-
-```html
+```md id="yansiprofessional"
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,50:6D28D9,100:C084FC&text=Yansi%20Hernández&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0F172A,50:7C3AED,100:C084FC&text=Yansi%20Hernández&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20💜&descAlignY=58&descSize=22"/>
 
-### 💻 Desarrolladora Web | Frontend Developer | Estudiante de Programación
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=C084FC&center=true&vCenter=true&width=850&lines=Bienvenido+a+mi+perfil+de+GitHub+💜;Frontend+Developer+✨;Diseñando+experiencias+web+modernas+💻;Amante+de+la+Tecnología+🚀;Siempre+aprendiendo+nuevas+tecnologías+🌸"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=C084FC&center=true&vCenter=true&width=700&lines=Bienvenido+al+perfil+de+Yansi+Hernández+💜;Frontend+Developer+✨;Amante+de+la+Tecnología+💻;Siempre+aprendiendo+nuevas+cosas+🚀"/>
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=YansiEstefani&label=Visitas%20al%20Perfil&color=7C3AED&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 🌌 Sobre mí
+# 👩‍💻 Sobre mí
+
+<img align="right" width="300" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
 ✨ Hola, soy **Yansi Hernández**  
-💜 Me apasiona el desarrollo web  
-🚀 Actualmente aprendiendo nuevas tecnologías  
-🎯 Objetivo: Convertirme en desarrolladora profesional  
+
+💜 Desarrolladora web en formación apasionada por crear experiencias digitales modernas y atractivas.  
+
+💻 Me enfoco en el desarrollo frontend, diseño de interfaces y creación de proyectos dinámicos y funcionales.  
+
+🚀 Actualmente fortaleciendo mis conocimientos en tecnologías web y desarrollo de software.  
+
+🎯 Mi objetivo es crecer profesionalmente en el mundo tecnológico y desarrollar proyectos innovadores.  
+
+🌸 Me caracteriza la creatividad, la dedicación y el aprendizaje constante.  
+
+<br><br><br>
 
 ---
 
-# 📞 Contactos    
-<a href="https://19792129-cell.github.io/FORMULARIO/formulario.html" target="_blank">
-<img src="https://img.shields.io/badge/Formulario-Contactarme-6D28D9?style=for-the-badge&logo=googleforms&logoColor=white"/>
-</a>
-
-[📩 Ir al Formulario](file:///C:/Users/Yansi/OneDrive/Desktop/html/Untitled-1.html)
+# 📞 Contactos
 
 <div align="center">
+
+<a href="https://19792129-cell.github.io/FORMULARIO/formulario.html" target="_blank">
+<img src="https://img.shields.io/badge/Formulario%20Profesional-Contactarme-7C3AED?style=for-the-badge&logo=googleforms&logoColor=white"/>
+</a>
+
+<br><br>
 
 <a href="mailto:19792129@clases.edu.sv">
 <img src="https://img.shields.io/badge/Gmail-Enviar%20Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -36,13 +49,13 @@
 
 <br><br>
 
-<a href="https://wa.me/50373445120">
+<a href="https://wa.me/50373445120" target="_blank">
 <img src="https://img.shields.io/badge/WhatsApp-Escribirme-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
 <br><br>
 
-<a href="https://github.com/YansiEstefani">
+<a href="https://github.com/YansiEstefani" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-Yansi%20Hernández-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -50,49 +63,43 @@
 
 ---
 
-# 🚀 Tecnologías
+# 🚀 Tecnologías y Herramientas
 
 <div align="center">
 
-<a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank">
-<img src="https://skillicons.dev/icons?i=html"/>
-</a>
-
-<a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank">
-<img src="https://skillicons.dev/icons?i=css"/>
-</a>
-
-<a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank">
-<img src="https://skillicons.dev/icons?i=js"/>
-</a>
-
-<a href="https://www.python.org/" target="_blank">
-<img src="https://skillicons.dev/icons?i=python"/>
-</a>
-
-<a href="https://www.postgresql.org/" target="_blank">
-<img src="https://skillicons.dev/icons?i=postgresql"/>
-</a>
-
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=git"/>
-</a>
-
-<a href="https://github.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://code.visualstudio.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=vscode"/>
-</a>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,postgresql,git,github,vscode&theme=dark"/>
 
 </div>
 
-🚀
+---
 
-</button>
+# 📊 Estadísticas de GitHub
 
-</form>
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YansiEstefani&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=7C3AED"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YansiEstefani&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC"/>
+
+</div>
+
+---
+
+# 🔥 Actividad en GitHub
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=YansiEstefani&theme=tokyonight&hide_border=true&background=0D1117&ring=C084FC&fire=7C3AED&currStreakLabel=C084FC"/>
+
+</div>
+
+---
+
+# 🌸 Filosofía
+
+<div align="center">
+
+✨ “La programación convierte ideas en experiencias digitales.” ✨
 
 </div>
 
@@ -102,9 +109,10 @@
 
 ## 💜 Gracias por visitar mi perfil 💜
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,50:6D28D9,100:C084FC"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0F172A,50:7C3AED,100:C084FC"/>
 
 </div>
 ```
+
 
 

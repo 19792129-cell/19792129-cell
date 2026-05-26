@@ -79,13 +79,6 @@
 
 <img src="https://skillicons.dev/icons?i=html,css,js,python,postgresql,git,github,vscode&theme=dark"/>
 
-</div>
-
----
-
-
-
----
 
 <div align="center">
 

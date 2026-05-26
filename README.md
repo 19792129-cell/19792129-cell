@@ -87,17 +87,7 @@
 
 ---
 
-<div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=90&text=📊%20ESTADÍSTICAS&fontSize=38&fontColor=ffffff&color=0:C084FC,100:FBCFE8"/>
-
-<br><br>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YansiEstefani&show_icons=true&theme=omni&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YansiEstefani&layout=compact&theme=omni&hide_border=true"/>
-
-</div>
 
 ---
 

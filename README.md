@@ -46,7 +46,7 @@
 
 ---
 
-## 🌸 FRASE
+ 🌸 FRASE
 
 ✨ *“La creatividad y la programación crean experiencias increíbles.”* ✨
 

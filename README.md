@@ -6,7 +6,6 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/Profile-Purple%20Style-A855F7?style=for-the-badge&logo=github&logoColor=white"/>
 
 </div>
 
@@ -71,9 +70,6 @@
 <img src="https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</div>
-
----
 
 <div align="center">
 

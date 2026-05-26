@@ -16,15 +16,13 @@
 🌸 Creativa y apasionada por programar  
 🎯 Objetivo: crecer profesionalmente  
 
-<div align="center">
 <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="300"/>
-</div>
 
 ---
 
 ## 🌐 CONTACTOS
 
-<a href="https://19792129-cell.github.io/FORMULARIO/formulario.html" target="_blank">
+<a href="https://19792129-cell.github.io/FORMULARIO/formulario.html">
 <img src="https://img.shields.io/badge/Formulario-C084FC?style=for-the-badge&logo=googleforms&logoColor=white"/>
 </a>
 
@@ -32,11 +30,11 @@
 <img src="https://img.shields.io/badge/Gmail-F472B6?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://wa.me/50373445120" target="_blank">
+<a href="https://wa.me/50373445120">
 <img src="https://img.shields.io/badge/WhatsApp-EC4899?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YansiEstefani" target="_blank">
+<a href="https://github.com/YansiEstefani">
 <img src="https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -44,39 +42,18 @@
 
 ## 🚀 TECNOLOGÍAS
 
+<img src="https://skillicons.dev/icons?i=html,css,js,python,postgresql,git,github,vscode&theme=dark"/>
+
 <p align="center">
 
-<a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank">
-<img src="https://skillicons.dev/icons?i=html" />
-</a>
-
-<a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank">
-<img src="https://skillicons.dev/icons?i=css" />
-</a>
-
-<a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank">
-<img src="https://skillicons.dev/icons?i=js" />
-</a>
-
-<a href="https://www.python.org/" target="_blank">
-<img src="https://skillicons.dev/icons?i=python" />
-</a>
-
-<a href="https://www.postgresql.org/" target="_blank">
-<img src="https://skillicons.dev/icons?i=postgresql" />
-</a>
-
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=git" />
-</a>
-
-<a href="https://github.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-<a href="https://code.visualstudio.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=vscode" />
-</a>
+<a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank">HTML</a> |
+<a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank">CSS</a> |
+<a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank">JavaScript</a> |
+<a href="https://www.python.org/" target="_blank">Python</a> |
+<a href="https://www.postgresql.org/" target="_blank">PostgreSQL</a> |
+<a href="https://git-scm.com/" target="_blank">Git</a> |
+<a href="https://github.com/" target="_blank">GitHub</a> |
+<a href="https://code.visualstudio.com/" target="_blank">VS Code</a>
 
 </p>
 
@@ -85,5 +62,4 @@
 ## 🌸 FRASE
 
 ✨ *“La creatividad y la programación crean experiencias increíbles.”* ✨
-
 

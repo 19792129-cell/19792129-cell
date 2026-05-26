@@ -1,9 +1,12 @@
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=350&color=0:FBCFE8,25:E9D5FF,50:C084FC,75:A855F7,100:7E22CE&text=Yansi%20Hernández&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20💜&descAlignY=60&descSize=24"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:1E1B4B,25:6D28D9,50:C084FC,75:F9A8D4,100:FBCFE8&text=Yansi%20Hernández&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20💜&descAlignY=60&descSize=24"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&color=F9A8D4&center=true&vCenter=true&width=900&lines=Bienvenida+a+mi+perfil+💜;Frontend+Developer+✨;Diseñando+interfaces+cute+🌸;Apasionada+por+la+Tecnología+💻"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=C084FC&center=true&vCenter=true&width=850&lines=Frontend+Developer+✨;Diseñando+interfaces+modernas+💜;Amante+de+la+tecnología+💻;Creando+proyectos+creativos+🚀"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Profile-Purple%20Style-A855F7?style=for-the-badge&logo=github&logoColor=white"/>
 
 </div>
 
@@ -11,68 +14,61 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=120&text=💜%20SOBRE%20MÍ&fontSize=42&fontColor=ffffff&color=0:F9A8D4,100:A855F7"/>
-
-</div>
-
-<br>
-
-<table align="center">
+<table width="100%">
 <tr border="none">
 
-<td width="50%" align="center">
+<td width="50%" align="left">
 
-<img width="100%" src="https://img.shields.io/badge/🌸%20Desarrolladora%20web%20en%20formación-F9A8D4?style=for-the-badge&labelColor=C084FC"/>
+## 💜 Sobre mí
 
-<br><br>
+╭────────────── ✨  
+💻 Desarrolladora web en formación  
 
-<img width="100%" src="https://img.shields.io/badge/💻%20Amante%20del%20frontend%20y%20diseño%20UI-E9D5FF?style=for-the-badge&labelColor=A855F7"/>
+🎨 Amante del frontend y UI Design  
 
-<br><br>
+🚀 Aprendiendo nuevas tecnologías  
 
-<img width="100%" src="https://img.shields.io/badge/✨%20Aprendiendo%20nuevas%20tecnologías-FBCFE8?style=for-the-badge&labelColor=9333EA"/>
+🌸 Creativa y apasionada por programar  
 
-<br><br>
+🎯 Objetivo: crecer profesionalmente  
 
-<img width="100%" src="https://img.shields.io/badge/🎀%20Creativa,%20dedicada%20y%20apasionada%20por%20programar-F9A8D4?style=for-the-badge&labelColor=C084FC"/>
-
-<br><br>
-
-<img width="100%" src="https://img.shields.io/badge/🚀%20Objetivo:%20Convertirme%20en%20desarrolladora%20profesional-E9D5FF?style=for-the-badge&labelColor=7E22CE"/>
+╰────────────── 💜  
 
 </td>
 
 <td width="50%" align="center">
 
-<img width="95%" src="https://i.pinimg.com/originals/2b/fe/47/2bfe47efac9351c0a9f5d7f9e5b7d7e7.gif"/>
+<img width="90%" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif"/>
 
 </td>
 
 </tr>
 </table>
 
+</div>
+
 ---
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=120&text=🌐%20CONTACTOS&fontSize=42&fontColor=ffffff&color=0:FBCFE8,100:C084FC"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=90&text=🌐%20CONTACTOS&fontSize=38&fontColor=ffffff&color=0:7C3AED,100:F9A8D4"/>
 
 <br><br>
 
 <a href="https://19792129-cell.github.io/FORMULARIO/formulario.html">
-<img src="https://img.shields.io/badge/💜%20Formulario-E879F9?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Formulario-C084FC?style=for-the-badge&logo=googleforms&logoColor=white"/>
 </a>
 
 <a href="mailto:19792129@clases.edu.sv">
-<img src="https://img.shields.io/badge/💌%20Gmail-F472B6?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-F472B6?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://wa.me/50373445120">
-<img src="https://img.shields.io/badge/🌸%20WhatsApp-EC4899?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/WhatsApp-EC4899?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
 <a href="https://github.com/YansiEstefani">
-<img src="https://img.shields.io/badge/✨%20GitHub-A855F7?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -81,41 +77,11 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=120&text=🚀%20TECNOLOGÍAS&fontSize=42&fontColor=ffffff&color=0:F9A8D4,100:9333EA"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=90&text=🚀%20TECNOLOGÍAS&fontSize=38&fontColor=ffffff&color=0:A855F7,100:F9A8D4"/>
 
 <br><br>
 
-<a href="https://developer.mozilla.org/es/docs/Web/HTML">
-<img src="https://skillicons.dev/icons?i=html&theme=light"/>
-</a>
-
-<a href="https://developer.mozilla.org/es/docs/Web/CSS">
-<img src="https://skillicons.dev/icons?i=css&theme=light"/>
-</a>
-
-<a href="https://developer.mozilla.org/es/docs/Web/JavaScript">
-<img src="https://skillicons.dev/icons?i=js&theme=light"/>
-</a>
-
-<a href="https://www.python.org/">
-<img src="https://skillicons.dev/icons?i=python&theme=light"/>
-</a>
-
-<a href="https://www.postgresql.org/">
-<img src="https://skillicons.dev/icons?i=postgresql&theme=light"/>
-</a>
-
-<a href="https://git-scm.com/">
-<img src="https://skillicons.dev/icons?i=git&theme=light"/>
-</a>
-
-<a href="https://github.com/">
-<img src="https://skillicons.dev/icons?i=github&theme=light"/>
-</a>
-
-<a href="https://code.visualstudio.com/">
-<img src="https://skillicons.dev/icons?i=vscode&theme=light"/>
-</a>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,postgresql,git,github,vscode&theme=dark"/>
 
 </div>
 
@@ -123,9 +89,13 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=120&text=🌸%20FRASE&fontSize=42&fontColor=ffffff&color=0:FBCFE8,100:A855F7"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=90&text=📊%20ESTADÍSTICAS&fontSize=38&fontColor=ffffff&color=0:C084FC,100:FBCFE8"/>
 
-# ✨ “La creatividad y la programación crean cosas increíbles.” ✨
+<br><br>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YansiEstefani&show_icons=true&theme=omni&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YansiEstefani&layout=compact&theme=omni&hide_border=true"/>
 
 </div>
 
@@ -133,10 +103,20 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&section=footer&color=0:FBCFE8,25:E9D5FF,50:C084FC,75:A855F7,100:7E22CE"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=90&text=🌸%20FRASE&fontSize=38&fontColor=ffffff&color=0:F9A8D4,100:A855F7"/>
+
+### ✨ *“La creatividad y la programación crean experiencias increíbles.”* ✨
 
 </div>
-```
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:1E1B4B,25:6D28D9,50:C084FC,75:F9A8D4,100:FBCFE8"/>
+
+</div>
+
 
 
 

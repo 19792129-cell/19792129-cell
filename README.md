@@ -1,4 +1,4 @@
-```html id="x9pw2m"
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:140152,25:4F46E5,50:A855F7,75:EC4899,100:F9A8D4&text=Yansi%20Hernández&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20💜&descAlignY=58&descSize=22"/>

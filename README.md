@@ -1,9 +1,13 @@
-
+```html id="x9pw2m"
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:1E1B4B,25:6D28D9,50:C084FC,75:F9A8D4,100:FBCFE8&text=Yansi%20Hernández&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20💜&descAlignY=60&descSize=24"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:140152,25:4F46E5,50:A855F7,75:EC4899,100:F9A8D4&text=Yansi%20Hernández&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20💜&descAlignY=58&descSize=22"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=C084FC&center=true&vCenter=true&width=850&lines=Frontend+Developer+✨;Diseñando+interfaces+modernas+💜;Amante+de+la+tecnología+💻;Creando+proyectos+creativos+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&pause=3000&color=C084FC&center=true&vCenter=true&width=850&lines=Desarrolladora+Frontend+💜;Diseñando+interfaces+modernas+✨;Creando+experiencias+digitales+🚀;Apasionada+por+la+tecnología+💻"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=YansiEstefani&label=Visitas%20del%20Perfil&color=C084FC&style=for-the-badge"/>
 
 </div>
 
@@ -11,47 +15,47 @@
 
 # 💜 Sobre mí
 
-<img align="right" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="260"/>
+<img align="right" width="280" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif"/>
 
-💻 Desarrolladora web en formación apasionada por crear interfaces modernas, creativas y funcionales.  
+✨ Hola, soy **Yansi Hernández**, desarrolladora frontend en formación apasionada por crear experiencias web modernas, elegantes y creativas.  
 
-🎨 Me especializo en el área de frontend, diseño UI y experiencias visuales atractivas.  
+💻 Me encanta desarrollar interfaces atractivas con diseños limpios, animaciones y estilos visuales modernos.  
 
-🚀 Actualmente continúo aprendiendo nuevas tecnologías para fortalecer mis habilidades como desarrolladora.  
+🎨 Disfruto combinar creatividad y tecnología para construir proyectos únicos y profesionales.  
 
-🌸 Disfruto diseñar proyectos creativos, elegantes y con estilos modernos.  
+🚀 Actualmente continúo aprendiendo nuevas tecnologías para mejorar mis habilidades como desarrolladora web.  
 
-🎯 Mi objetivo es crecer profesionalmente y convertirme en una desarrolladora full stack.  
+🌸 Me interesa especialmente el mundo del **Frontend**, el diseño UI/UX y la creación de aplicaciones visualmente atractivas.  
 
-✨ Siempre buscando mejorar, aprender y crear nuevas ideas tecnológicas.  
+🎯 Mi objetivo es convertirme en una desarrolladora Full Stack profesional.  
 
 ---
 
-# 🌐 CONTACTOS
+# 🌐 Contactos
 
 <div align="center">
 
 <a href="https://19792129-cell.github.io/FORMULARIO/formulario.html" target="_blank">
-<img src="https://img.shields.io/badge/Formulario-C084FC?style=for-the-badge&logo=googleforms&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portafolio-C084FC?style=for-the-badge&logo=firefox&logoColor=white"/>
 </a>
 
 <a href="mailto:19792129@clases.edu.sv">
-<img src="https://img.shields.io/badge/Gmail-F472B6?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EC4899?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://wa.me/50373445120" target="_blank">
-<img src="https://img.shields.io/badge/WhatsApp-EC4899?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+<img src="https://img.shields.io/badge/WhatsApp-A855F7?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
 <a href="https://github.com/YansiEstefani" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-# 🚀 TECNOLOGÍAS
+# 🚀 Tecnologías
 
 <div align="center">
 
@@ -91,26 +95,55 @@
 
 ---
 
-# 📚 Actualmente aprendiendo
+# 🌸 Actualmente aprendiendo
 
 <div align="center">
 
-✨ JavaScript Moderno  
-✨ Diseño Responsive  
-✨ PostgreSQL  
-✨ Git y GitHub  
-✨ Desarrollo Web Frontend  
-✨ UI / UX Design  
+<table>
+<tr>
+<td align="center">✨ Diseño Responsive</td>
+<td align="center">✨ JavaScript</td>
+<td align="center">✨ PostgreSQL</td>
+</tr>
+
+<tr>
+<td align="center">✨ Git y GitHub</td>
+<td align="center">✨ UI / UX</td>
+<td align="center">✨ Desarrollo Frontend</td>
+</tr>
+</table>
 
 </div>
 
+---
 
-
-# ✨ FRASE
+# 📊 Estadísticas de GitHub
 
 <div align="center">
 
-> 💜 “El diseño es la inteligencia hecha visible.”  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YansiEstefani&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YansiEstefani&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+
+</div>
+
+---
+
+# 🏆 Logros
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YansiEstefani&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
+
+</div>
+
+---
+
+# ✨ Frase favorita
+
+<div align="center">
+
+### 💜 “El código, la creatividad y el diseño pueden cambiar el mundo.” ✨
 
 </div>
 
@@ -118,8 +151,9 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FBCFE8,25:F9A8D4,50:C084FC,75:6D28D9,100:1E1B4B&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:F9A8D4,25:EC4899,50:A855F7,75:4F46E5,100:140152"/>
 
 </div>
 ```
+
 

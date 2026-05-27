@@ -152,79 +152,8 @@
 
 ---
 
-<div align="center">
 
-# 📊 Estadísticas de GitHub
 
-<img src="https://img.shields.io/badge/Mis_Estadísticas-C084FC?style=for-the-badge"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img height="190em" src="https://github-readme-stats.vercel.app/api?username=YansiEstefani&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-
-<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YansiEstefani&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-
-</div>
-
----
-
-<div align="center">
-
-# 🔥 Racha de Contribuciones
-
-<img src="https://img.shields.io/badge/GitHub_Streak-F472B6?style=for-the-badge"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=YansiEstefani&theme=tokyonight&hide_border=true&background=00000000"/>
-
-</div>
-
----
-
-<div align="center">
-
-# 🏆 Logros
-
-<img src="https://img.shields.io/badge/Achievements-A855F7?style=for-the-badge"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YansiEstefani&theme=tokyonight&no-frame=true&margin-w=12&margin-h=12"/>
-
-</div>
-
----
-
-<div align="center">
-
-# 📈 Actividad
-
-<img src="https://img.shields.io/badge/Actividad_en_GitHub-C084FC?style=for-the-badge"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YansiEstefani&theme=tokyo-night&hide_border=true&bg_color=00000000"/>
-
-</div>
-
----
 
 <div align="center">
 

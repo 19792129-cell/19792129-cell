@@ -6,13 +6,6 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=YansiEstefani&label=VISITAS&color=A855F7&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/YansiEstefani?style=for-the-badge&color=C084FC&labelColor=1E1B4B"/>
-
-<img src="https://img.shields.io/github/stars/YansiEstefani?style=for-the-badge&color=EC4899&labelColor=1E1B4B"/>
-
-</div>
 
 ---
 

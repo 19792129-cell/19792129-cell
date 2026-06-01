@@ -6,12 +6,15 @@
 
 <br><br>
 
-
 ---
 
 <div align="center">
 
 # 💜 Bienvenidos a mi perfil 💜
+
+<img src="https://img.shields.io/badge/Bienvenidos_a_mi_Perfil-C084FC?style=for-the-badge"/>
+
+<br><br>
 
 <img width="240" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
@@ -21,27 +24,31 @@
 
 # 🌸 Sobre mí
 
+<img src="https://img.shields.io/badge/Sobre_Mí-F472B6?style=for-the-badge"/>
+
 <img align="right" width="300" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 
 <div align="left">
 
-💻 Soy una desarrolladora frontend en formación apasionada por crear páginas web modernas, elegantes y creativas.  
+💻 Soy una desarrolladora frontend en formación apasionada por crear páginas web modernas, elegantes y creativas.
 
-🎨 Me encanta diseñar interfaces visualmente atractivas con estilos limpios, colores modernos y animaciones profesionales.  
+🎨 Me encanta diseñar interfaces visualmente atractivas con estilos limpios, colores modernos y animaciones profesionales.
 
-🚀 Disfruto aprender nuevas tecnologías y mejorar cada día mis habilidades como desarrolladora web.  
+🚀 Disfruto aprender nuevas tecnologías y mejorar cada día mis habilidades como desarrolladora web.
 
-🌸 Me apasiona el mundo del diseño UI/UX y la creación de experiencias digitales únicas.  
+🌸 Me apasiona el mundo del diseño UI/UX y la creación de experiencias digitales únicas.
 
-✨ Siempre busco crear proyectos innovadores que mezclen creatividad y tecnología.  
+✨ Siempre busco crear proyectos innovadores que mezclen creatividad y tecnología.
 
-🎯 Mi objetivo es convertirme en una desarrolladora Full Stack profesional.  
+🎯 Mi objetivo es convertirme en una desarrolladora Full Stack profesional.
 
 </div>
 
 ---
 
 # 🌐 Redes y Contacto
+
+<img src="https://img.shields.io/badge/Redes_y_Contacto-A855F7?style=for-the-badge"/>
 
 <div align="center">
 
@@ -69,7 +76,7 @@
 
 # 🚀 Tecnologías y Herramientas
 
-<img src="https://img.shields.io/badge/Frontend-EC4899?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Tecnologías_y_Herramientas-7C3AED?style=for-the-badge"/>
 
 </div>
 
@@ -119,7 +126,7 @@
 
 # 🌟 Actualmente Aprendiendo
 
-<img src="https://img.shields.io/badge/Siempre_Aprendiendo-EC4899?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Actualmente_Aprendiendo-EC4899?style=for-the-badge"/>
 
 </div>
 
@@ -145,14 +152,11 @@
 
 ---
 
-
-
-
 <div align="center">
 
 # ✨ Frase Favorita
 
-<img src="https://img.shields.io/badge/Motivación-EC4899?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Motivación-F43F5E?style=for-the-badge"/>
 
 ### 💜 “La creatividad y el código pueden convertir ideas en algo increíble.” ✨
 
@@ -163,6 +167,10 @@
 <div align="center">
 
 # 🌸 Gracias por visitar mi perfil
+
+<img src="https://img.shields.io/badge/Gracias_por_Visitar_mi_Perfil-C084FC?style=for-the-badge"/>
+
+<br><br>
 
 <img width="260" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif"/>
 
@@ -177,6 +185,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:FBCFE8,25:F472B6,50:C084FC,75:7C3AED,100:0F172A"/>
 
 </div>
+
 
 
 

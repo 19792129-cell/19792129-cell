@@ -11,7 +11,11 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=2800&color=C084FC&center=true&vCenter=true&width=900&lines=💜+Desarrolladora+Frontend;✨+Creando+interfaces+modernas;🚀+Diseñando+experiencias+digitales;💻+Apasionada+por+la+tecnología;🌸+Creatividad+%2B+Código"/>
 
 </div>
+<div align="center">
 
+<!-- TODO TU CONTENIDO AQUÍ -->
+
+</div>
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=60&color=8B5CF6&text=💜%20Bienvenidos%20a%20mi%20perfil%20💜&fontColor=ffffff&fontSize=28"/>
